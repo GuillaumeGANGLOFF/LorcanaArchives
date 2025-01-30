@@ -52,8 +52,8 @@ async def send_card_message(channel_id):
         except Exception as e:
             print(f"(-) Erreur lors de l'envoi du message : {str(e)}")
 
-@bot.tree.command(name="randomc", description="Renvoyer une carte aléatoire")
-async def randomc(interaction: discord.Interaction):
+@bot.tree.command(name="random", description="Renvoyer une carte aléatoire")
+async def random(interaction: discord.Interaction):
     print("aléatoire trigger")
     with open('output.json', 'r') as file:
         data = json.load(file)
