@@ -124,6 +124,7 @@ class CardView(View):
 @bot.tree.command(name="carte", description="Rechercher une carte Dreamborn")
 @app_commands.describe(recherche="Nom ou sous-nom de la carte à rechercher")
 async def carte(interaction: discord.Interaction, recherche: str):
+    await interaction.response.defer()  # ← Déférer immédiatement la réponse
     print(f"Commande /carte reçue avec recherche: {recherche}")  # Debug
     
     # Conversion de la recherche en minuscules
@@ -150,7 +151,7 @@ async def carte(interaction: discord.Interaction, recherche: str):
                 description="Aucune carte n'a été trouvée pour cette recherche.",
                 color=discord.Color.red()
             )
-            await interaction.response.send_message(embed=embed_no_carte, ephemeral=True)
+            await interaction.followup.send(embed=embed_no_carte, ephemeral=True)
         else:
             print(f"Nombre de cartes trouvées: {len(resultat_carte)}")  # Debug
             # Limitation du nombre de résultats (maximum 25 options dans un Select)
@@ -158,17 +159,18 @@ async def carte(interaction: discord.Interaction, recherche: str):
             
             # Création et envoi du menu de sélection
             view = CardView(resultat_carte)
-            await interaction.response.send_message(
+            await interaction.followup.send(  # ← Utiliser followup au lieu de response.send_message
                 "Sélectionnez une carte :",
                 view=view,
                 ephemeral=True
             )
     except Exception as e:
         print(f"Erreur lors de l'exécution de la commande: {str(e)}")  # Debug
-        await interaction.response.send_message(
+        await interaction.followup.send(  # ← Utiliser followup ici aussi
             f"Une erreur s'est produite: {str(e)}",
             ephemeral=True
         )
+
 
 @bot.event
 async def on_ready():
