@@ -1,0 +1,6596 @@
+[
+  {
+    "extension": "001",
+    "carte": "100",
+    "nom": "Trahison brutale",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "101",
+    "nom": "Cartes du dr facilier",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "102",
+    "nom": "Cimeterre vole",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "103",
+    "nom": "Abu",
+    "sous-nom": "Singe malicieux"
+  },
+  {
+    "extension": "001",
+    "carte": "104",
+    "nom": "Aladdin",
+    "sous-nom": "Hors-la-loi heroique"
+  },
+  {
+    "extension": "001",
+    "carte": "105",
+    "nom": "Aladdin",
+    "sous-nom": "Vaurien"
+  },
+  {
+    "extension": "001",
+    "carte": "106",
+    "nom": "Capitaine",
+    "sous-nom": "Lieutenant du colonel"
+  },
+  {
+    "extension": "001",
+    "carte": "107",
+    "nom": "Capitaine crochet",
+    "sous-nom": "Pirate impitoyable"
+  },
+  {
+    "extension": "001",
+    "carte": "108",
+    "nom": "Donald",
+    "sous-nom": "Volatile colerique"
+  },
+  {
+    "extension": "001",
+    "carte": "109",
+    "nom": "Elsa",
+    "sous-nom": "Surfeuse des glaces"
+  },
+  {
+    "extension": "001",
+    "carte": "010",
+    "nom": "Maximus",
+    "sous-nom": "Cheval du palais"
+  },
+  {
+    "extension": "001",
+    "carte": "110",
+    "nom": "Gaston",
+    "sous-nom": "Chasseur arrogant"
+  },
+  {
+    "extension": "001",
+    "carte": "111",
+    "nom": "Dingo",
+    "sous-nom": "Tete brulee"
+  },
+  {
+    "extension": "001",
+    "carte": "112",
+    "nom": "Le fou",
+    "sous-nom": "Agitateur de foule"
+  },
+  {
+    "extension": "001",
+    "carte": "113",
+    "nom": "Malefique",
+    "sous-nom": "Dragon monstrueux"
+  },
+  {
+    "extension": "001",
+    "carte": "114",
+    "nom": "Maui",
+    "sous-nom": "Idole des hommes"
+  },
+  {
+    "extension": "001",
+    "carte": "115",
+    "nom": "Mickey mouse",
+    "sous-nom": "Brave petit tailleur"
+  },
+  {
+    "extension": "001",
+    "carte": "116",
+    "nom": "Minnie",
+    "sous-nom": "Toujours elegante"
+  },
+  {
+    "extension": "001",
+    "carte": "117",
+    "nom": "Vaiana",
+    "sous-nom": "Choisie par l ocean"
+  },
+  {
+    "extension": "001",
+    "carte": "118",
+    "nom": "Mulan",
+    "sous-nom": "Soldat imperial"
+  },
+  {
+    "extension": "001",
+    "carte": "119",
+    "nom": "Peter pan",
+    "sous-nom": "Combattant intrepide"
+  },
+  {
+    "extension": "001",
+    "carte": "011",
+    "nom": "Maximus",
+    "sous-nom": "Infatigable poursuivant"
+  },
+  {
+    "extension": "001",
+    "carte": "120",
+    "nom": "Pongo",
+    "sous-nom": "Sacripant"
+  },
+  {
+    "extension": "001",
+    "carte": "121",
+    "nom": "Raiponce",
+    "sous-nom": "Lancant sa chevelure"
+  },
+  {
+    "extension": "001",
+    "carte": "122",
+    "nom": "Scar",
+    "sous-nom": "Ardent usurpateur"
+  },
+  {
+    "extension": "001",
+    "carte": "123",
+    "nom": "Scar",
+    "sous-nom": "Fanatique sans scrupule"
+  },
+  {
+    "extension": "001",
+    "carte": "124",
+    "nom": "Sergent tibs",
+    "sous-nom": "Chat courageux"
+  },
+  {
+    "extension": "001",
+    "carte": "125",
+    "nom": "Stitch",
+    "sous-nom": "Abominable creature"
+  },
+  {
+    "extension": "001",
+    "carte": "126",
+    "nom": "Te ka",
+    "sous-nom": "Demon de la terre et du feu"
+  },
+  {
+    "extension": "001",
+    "carte": "127",
+    "nom": "Tigrou",
+    "sous-nom": "Merveilleux d etre un tigrou"
+  },
+  {
+    "extension": "001",
+    "carte": "128",
+    "nom": "Soyez pretes",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "129",
+    "nom": "Droit au but",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "012",
+    "nom": "Mickey mouse",
+    "sous-nom": "Veritable ami"
+  },
+  {
+    "extension": "001",
+    "carte": "130",
+    "nom": "Feu du dragon",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "131",
+    "nom": "Attiser les flammes",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "132",
+    "nom": "Il a un sabre",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "133",
+    "nom": "Enchevetre",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "134",
+    "nom": "Pomme empoisonnee",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "135",
+    "nom": "Bouclier de vertu",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "136",
+    "nom": "Epee de verite",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "137",
+    "nom": "Ariel",
+    "sous-nom": "Collectionneuse de couics et de couacs"
+  },
+  {
+    "extension": "001",
+    "carte": "138",
+    "nom": "Aurore",
+    "sous-nom": "Rose"
+  },
+  {
+    "extension": "001",
+    "carte": "139",
+    "nom": "Aurore",
+    "sous-nom": "Gardienne reveuse"
+  },
+  {
+    "extension": "001",
+    "carte": "013",
+    "nom": "Minnie",
+    "sous-nom": "Princesse adoree"
+  },
+  {
+    "extension": "001",
+    "carte": "140",
+    "nom": "Aurore",
+    "sous-nom": "Princesse royale"
+  },
+  {
+    "extension": "001",
+    "carte": "141",
+    "nom": "Belle",
+    "sous-nom": "Inventrice"
+  },
+  {
+    "extension": "001",
+    "carte": "142",
+    "nom": "Belle",
+    "sous-nom": "Etrange demoiselle"
+  },
+  {
+    "extension": "001",
+    "carte": "143",
+    "nom": "Tui",
+    "sous-nom": "Chef respecte"
+  },
+  {
+    "extension": "001",
+    "carte": "144",
+    "nom": "Donald",
+    "sous-nom": "Inventeur fanfaron"
+  },
+  {
+    "extension": "001",
+    "carte": "145",
+    "nom": "Polochon",
+    "sous-nom": "La voix de la raison"
+  },
+  {
+    "extension": "001",
+    "carte": "146",
+    "nom": "Grand",
+    "sous-nom": "Mere tala - conteuse"
+  },
+  {
+    "extension": "001",
+    "carte": "147",
+    "nom": "Hades",
+    "sous-nom": "Conspirateur infernal"
+  },
+  {
+    "extension": "001",
+    "carte": "148",
+    "nom": "Jasmine",
+    "sous-nom": "Deguisee"
+  },
+  {
+    "extension": "001",
+    "carte": "149",
+    "nom": "Jasmine",
+    "sous-nom": "Reine d agrabah"
+  },
+  {
+    "extension": "001",
+    "carte": "014",
+    "nom": "Vaiana",
+    "sous-nom": "De motunui"
+  },
+  {
+    "extension": "001",
+    "carte": "150",
+    "nom": "Malefique",
+    "sous-nom": "Sinistre visiteuse"
+  },
+  {
+    "extension": "001",
+    "carte": "151",
+    "nom": "Malefique",
+    "sous-nom": "Indesirable"
+  },
+  {
+    "extension": "001",
+    "carte": "152",
+    "nom": "Maurice",
+    "sous-nom": "Le plus celebre des inventeurs"
+  },
+  {
+    "extension": "001",
+    "carte": "153",
+    "nom": "Merlin",
+    "sous-nom": "Mentor autoproclame"
+  },
+  {
+    "extension": "001",
+    "carte": "154",
+    "nom": "Mickey mouse",
+    "sous-nom": "Detective"
+  },
+  {
+    "extension": "001",
+    "carte": "155",
+    "nom": "Mufasa",
+    "sous-nom": "Roi de la terre des lions"
+  },
+  {
+    "extension": "001",
+    "carte": "156",
+    "nom": "Philoctete",
+    "sous-nom": "Entraineur de heros"
+  },
+  {
+    "extension": "001",
+    "carte": "157",
+    "nom": "Robin des bois",
+    "sous-nom": "Archer sans egal"
+  },
+  {
+    "extension": "001",
+    "carte": "158",
+    "nom": "Scar",
+    "sous-nom": "Manipulateur"
+  },
+  {
+    "extension": "001",
+    "carte": "159",
+    "nom": "Tamatoa",
+    "sous-nom": "Bling-bling"
+  },
+  {
+    "extension": "001",
+    "carte": "015",
+    "nom": "Monsieur mouche",
+    "sous-nom": "Fidele second"
+  },
+  {
+    "extension": "001",
+    "carte": "160",
+    "nom": "Triton",
+    "sous-nom": "Roi des oceans"
+  },
+  {
+    "extension": "001",
+    "carte": "161",
+    "nom": "Developpe ton cerveau",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "162",
+    "nom": "Si c est pas baroque",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "163",
+    "nom": "Liberee delivree",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "164",
+    "nom": "Je vole",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "165",
+    "nom": "Travail d equipe",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "166",
+    "nom": "Panier de noix de coco",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "167",
+    "nom": "Il des moires",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "168",
+    "nom": "Plume en forme d arete",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "169",
+    "nom": "Fleur aux petales d or",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "016",
+    "nom": "Prince philippe",
+    "sous-nom": "Tueur de dragon"
+  },
+  {
+    "extension": "001",
+    "carte": "170",
+    "nom": "Sceptre d arendelle",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "171",
+    "nom": "Aladdin",
+    "sous-nom": "Hors-la-loi accule"
+  },
+  {
+    "extension": "001",
+    "carte": "172",
+    "nom": "La bete",
+    "sous-nom": "Colerique et aigrie"
+  },
+  {
+    "extension": "001",
+    "carte": "173",
+    "nom": "Capitaine crochet",
+    "sous-nom": "Capitaine du jolly roger"
+  },
+  {
+    "extension": "001",
+    "carte": "174",
+    "nom": "Capitaine crochet",
+    "sous-nom": "Duelliste aguerri"
+  },
+  {
+    "extension": "001",
+    "carte": "175",
+    "nom": "Capitaine crochet",
+    "sous-nom": "Reve d aventure"
+  },
+  {
+    "extension": "001",
+    "carte": "176",
+    "nom": "Cerbere",
+    "sous-nom": "Chien a trois tetes"
+  },
+  {
+    "extension": "001",
+    "carte": "177",
+    "nom": "Donald",
+    "sous-nom": "Mousquetaire"
+  },
+  {
+    "extension": "001",
+    "carte": "178",
+    "nom": "Gantu",
+    "sous-nom": "Capitaine de la federation galactique"
+  },
+  {
+    "extension": "001",
+    "carte": "179",
+    "nom": "Creatures",
+    "sous-nom": "Sbires de malefique"
+  },
+  {
+    "extension": "001",
+    "carte": "017",
+    "nom": "Pumbaa",
+    "sous-nom": "Poete qui sommeille"
+  },
+  {
+    "extension": "001",
+    "carte": "180",
+    "nom": "Hans",
+    "sous-nom": "Treizieme heritier"
+  },
+  {
+    "extension": "001",
+    "carte": "181",
+    "nom": "Hercule",
+    "sous-nom": "Vrai heros"
+  },
+  {
+    "extension": "001",
+    "carte": "182",
+    "nom": "Kristoff",
+    "sous-nom": "Maitre glacier officiel"
+  },
+  {
+    "extension": "001",
+    "carte": "183",
+    "nom": "Kronk",
+    "sous-nom": "Fidele bras droit"
+  },
+  {
+    "extension": "001",
+    "carte": "184",
+    "nom": "Lilo",
+    "sous-nom": "Heroine galactique"
+  },
+  {
+    "extension": "001",
+    "carte": "185",
+    "nom": "Maui",
+    "sous-nom": "Demi-dieu"
+  },
+  {
+    "extension": "001",
+    "carte": "186",
+    "nom": "Mickey mouse",
+    "sous-nom": "Mousquetaire"
+  },
+  {
+    "extension": "001",
+    "carte": "187",
+    "nom": "Prince eric",
+    "sous-nom": "Fougueux et courageux"
+  },
+  {
+    "extension": "001",
+    "carte": "188",
+    "nom": "Simba",
+    "sous-nom": "Futur roi"
+  },
+  {
+    "extension": "001",
+    "carte": "189",
+    "nom": "Simba",
+    "sous-nom": "Roi de retour"
+  },
+  {
+    "extension": "001",
+    "carte": "018",
+    "nom": "Raiponce",
+    "sous-nom": "Guerit les blessures"
+  },
+  {
+    "extension": "001",
+    "carte": "190",
+    "nom": "Simba",
+    "sous-nom": "Heritier legitime"
+  },
+  {
+    "extension": "001",
+    "carte": "191",
+    "nom": "Monsieur starkey",
+    "sous-nom": "Acolyte de crochet"
+  },
+  {
+    "extension": "001",
+    "carte": "192",
+    "nom": "Te ka",
+    "sous-nom": "Sans c ur"
+  },
+  {
+    "extension": "001",
+    "carte": "193",
+    "nom": "La fee clochette",
+    "sous-nom": "Fee geante"
+  },
+  {
+    "extension": "001",
+    "carte": "194",
+    "nom": "La fee clochette",
+    "sous-nom": "Mini tacticienne"
+  },
+  {
+    "extension": "001",
+    "carte": "195",
+    "nom": "Ce reve bleu",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "196",
+    "nom": "Dechiquete",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "197",
+    "nom": "Allumez les meches",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "198",
+    "nom": "Tuons la bete",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "199",
+    "nom": "Sens dessus dessous",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "019",
+    "nom": "Sebastien",
+    "sous-nom": "Compositeur a la cour"
+  },
+  {
+    "extension": "001",
+    "carte": "001",
+    "nom": "Ariel",
+    "sous-nom": "Sur des jambes humaines"
+  },
+  {
+    "extension": "001",
+    "carte": "200",
+    "nom": "Fracasser",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "201",
+    "nom": "Miroir de la bete",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "202",
+    "nom": "Poele a frire",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "203",
+    "nom": "Tabard de mousquetaire",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "204",
+    "nom": "Pistolet a plasma",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "205",
+    "nom": "Hades",
+    "sous-nom": "Roi de l olympe"
+  },
+  {
+    "extension": "001",
+    "carte": "206",
+    "nom": "Stitch",
+    "sous-nom": "Surfer insouciant"
+  },
+  {
+    "extension": "001",
+    "carte": "207",
+    "nom": "Elsa",
+    "sous-nom": "Esprit de l hiver"
+  },
+  {
+    "extension": "001",
+    "carte": "208",
+    "nom": "Mickey",
+    "sous-nom": "Sorcier renegat"
+  },
+  {
+    "extension": "001",
+    "carte": "209",
+    "nom": "Genie",
+    "sous-nom": "Fait le show"
+  },
+  {
+    "extension": "001",
+    "carte": "020",
+    "nom": "Simba",
+    "sous-nom": "Lionceau protecteur"
+  },
+  {
+    "extension": "001",
+    "carte": "210",
+    "nom": "Mickey",
+    "sous-nom": "Bandit ruse"
+  },
+  {
+    "extension": "001",
+    "carte": "211",
+    "nom": "Aladdin",
+    "sous-nom": "Hors-la-loi heroique"
+  },
+  {
+    "extension": "001",
+    "carte": "212",
+    "nom": "Maui",
+    "sous-nom": "Idole des hommes"
+  },
+  {
+    "extension": "001",
+    "carte": "213",
+    "nom": "Aurore",
+    "sous-nom": "Gardienne reveuse"
+  },
+  {
+    "extension": "001",
+    "carte": "214",
+    "nom": "Belle",
+    "sous-nom": "Etrange demoiselle"
+  },
+  {
+    "extension": "001",
+    "carte": "215",
+    "nom": "Simba",
+    "sous-nom": "Roi de retour"
+  },
+  {
+    "extension": "001",
+    "carte": "216",
+    "nom": "La fee clochette",
+    "sous-nom": "Fee geante"
+  },
+  {
+    "extension": "001",
+    "carte": "021",
+    "nom": "Stitch",
+    "sous-nom": "Surfeur insouciant"
+  },
+  {
+    "extension": "001",
+    "carte": "022",
+    "nom": "Stitch",
+    "sous-nom": "Nouveau chien"
+  },
+  {
+    "extension": "001",
+    "carte": "023",
+    "nom": "Stitch",
+    "sous-nom": "Rock star"
+  },
+  {
+    "extension": "001",
+    "carte": "024",
+    "nom": "Timon",
+    "sous-nom": "Denicheur de larves"
+  },
+  {
+    "extension": "001",
+    "carte": "025",
+    "nom": "C est la fete",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "026",
+    "nom": "Tres mauvais caractere",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "027",
+    "nom": "Hakuna matata",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "028",
+    "nom": "Lueur reparatrice",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "029",
+    "nom": "Juste a temps",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "002",
+    "nom": "Ariel",
+    "sous-nom": "Chanteuse exceptionnelle"
+  },
+  {
+    "extension": "001",
+    "carte": "030",
+    "nom": "Partir la",
+    "sous-nom": "Bas"
+  },
+  {
+    "extension": "001",
+    "carte": "031",
+    "nom": "Tu m as oublie",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "032",
+    "nom": "Zirgouflex",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "033",
+    "nom": "Lanterne",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "034",
+    "nom": "Pendentif en coquillage d ursula",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "035",
+    "nom": "Anna",
+    "sous-nom": "Heritiere d arendelle"
+  },
+  {
+    "extension": "001",
+    "carte": "036",
+    "nom": "Archimede",
+    "sous-nom": "Hibou extremement instruit"
+  },
+  {
+    "extension": "001",
+    "carte": "037",
+    "nom": "Dr facilier",
+    "sous-nom": "Agent provocateur"
+  },
+  {
+    "extension": "001",
+    "carte": "038",
+    "nom": "Dr facilier",
+    "sous-nom": "Charlatan"
+  },
+  {
+    "extension": "001",
+    "carte": "039",
+    "nom": "Dr facilier",
+    "sous-nom": "Etrange gentleman"
+  },
+  {
+    "extension": "001",
+    "carte": "003",
+    "nom": "Cendrillon",
+    "sous-nom": "Douce et charmante"
+  },
+  {
+    "extension": "001",
+    "carte": "040",
+    "nom": "Elsa",
+    "sous-nom": "Reine regente"
+  },
+  {
+    "extension": "001",
+    "carte": "041",
+    "nom": "Elsa",
+    "sous-nom": "Reine des neiges"
+  },
+  {
+    "extension": "001",
+    "carte": "042",
+    "nom": "Elsa",
+    "sous-nom": "Esprit de l hiver"
+  },
+  {
+    "extension": "001",
+    "carte": "043",
+    "nom": "Flotsam",
+    "sous-nom": "Espion d ursula"
+  },
+  {
+    "extension": "001",
+    "carte": "044",
+    "nom": "Jafar",
+    "sous-nom": "Gardien des secrets"
+  },
+  {
+    "extension": "001",
+    "carte": "045",
+    "nom": "Jafar",
+    "sous-nom": "Sorcier malefique"
+  },
+  {
+    "extension": "001",
+    "carte": "046",
+    "nom": "Jetsam",
+    "sous-nom": "Espion d ursula"
+  },
+  {
+    "extension": "001",
+    "carte": "047",
+    "nom": "Balais magiques",
+    "sous-nom": "Armes de seaux"
+  },
+  {
+    "extension": "001",
+    "carte": "048",
+    "nom": "Malefique",
+    "sous-nom": "Attendant son heure"
+  },
+  {
+    "extension": "001",
+    "carte": "049",
+    "nom": "Malefique",
+    "sous-nom": "Sorciere"
+  },
+  {
+    "extension": "001",
+    "carte": "004",
+    "nom": "Dingo",
+    "sous-nom": "Mousquetaire"
+  },
+  {
+    "extension": "001",
+    "carte": "050",
+    "nom": "Guimauve",
+    "sous-nom": "Gardien tenace"
+  },
+  {
+    "extension": "001",
+    "carte": "051",
+    "nom": "Mickey mouse",
+    "sous-nom": "Sorcier renegat"
+  },
+  {
+    "extension": "001",
+    "carte": "052",
+    "nom": "Olaf",
+    "sous-nom": "Gentil bonhomme de neige"
+  },
+  {
+    "extension": "001",
+    "carte": "053",
+    "nom": "Pascal",
+    "sous-nom": "Compagnon de raiponce"
+  },
+  {
+    "extension": "001",
+    "carte": "054",
+    "nom": "Rafiki",
+    "sous-nom": "Mysterieux sage"
+  },
+  {
+    "extension": "001",
+    "carte": "055",
+    "nom": "Sven",
+    "sous-nom": "Fournisseur officiel de glace"
+  },
+  {
+    "extension": "001",
+    "carte": "056",
+    "nom": "La reine",
+    "sous-nom": "Vaniteuse et malfaisante"
+  },
+  {
+    "extension": "001",
+    "carte": "057",
+    "nom": "Madame de garderobe",
+    "sous-nom": "Confidente de belle"
+  },
+  {
+    "extension": "001",
+    "carte": "058",
+    "nom": "La fee clochette",
+    "sous-nom": "Alliee de peter pan"
+  },
+  {
+    "extension": "001",
+    "carte": "059",
+    "nom": "Ursula",
+    "sous-nom": "Assoiffee de pouvoir"
+  },
+  {
+    "extension": "001",
+    "carte": "005",
+    "nom": "Hades",
+    "sous-nom": "Roi de l olympe"
+  },
+  {
+    "extension": "001",
+    "carte": "060",
+    "nom": "Yzma",
+    "sous-nom": "Alchimiste"
+  },
+  {
+    "extension": "001",
+    "carte": "061",
+    "nom": "Zeus",
+    "sous-nom": "Dieu de la foudre"
+  },
+  {
+    "extension": "001",
+    "carte": "062",
+    "nom": "Emberlificotage",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "063",
+    "nom": "Gel",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "064",
+    "nom": "Mes amis de l au",
+    "sous-nom": "Dela"
+  },
+  {
+    "extension": "001",
+    "carte": "065",
+    "nom": "Reflexion",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "066",
+    "nom": "Miroir magique",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "067",
+    "nom": "Chaudron d ursula",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "068",
+    "nom": "Montre a gousset",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "069",
+    "nom": "Aladdin",
+    "sous-nom": "Prince ali"
+  },
+  {
+    "extension": "001",
+    "carte": "006",
+    "nom": "Hades",
+    "sous-nom": "Seigneur des enfers"
+  },
+  {
+    "extension": "001",
+    "carte": "070",
+    "nom": "La bete",
+    "sous-nom": "Fleau des loups"
+  },
+  {
+    "extension": "001",
+    "carte": "071",
+    "nom": "Chat du cheshire",
+    "sous-nom": "N a pas toujours toute sa tete"
+  },
+  {
+    "extension": "001",
+    "carte": "072",
+    "nom": "Cruella d enfer",
+    "sous-nom": "Cruelle diablesse"
+  },
+  {
+    "extension": "001",
+    "carte": "073",
+    "nom": "Le duc de weselton",
+    "sous-nom": "Dignitaire opportuniste"
+  },
+  {
+    "extension": "001",
+    "carte": "074",
+    "nom": "Flynn rider",
+    "sous-nom": "Charmant voleur"
+  },
+  {
+    "extension": "001",
+    "carte": "075",
+    "nom": "Genie",
+    "sous-nom": "Fait le show"
+  },
+  {
+    "extension": "001",
+    "carte": "076",
+    "nom": "Genie",
+    "sous-nom": "Dechaine ses pouvoirs"
+  },
+  {
+    "extension": "001",
+    "carte": "077",
+    "nom": "Genie",
+    "sous-nom": "A votre service"
+  },
+  {
+    "extension": "001",
+    "carte": "078",
+    "nom": "Hans",
+    "sous-nom": "Prince malfaisant"
+  },
+  {
+    "extension": "001",
+    "carte": "079",
+    "nom": "Horace",
+    "sous-nom": "Crapule bonne a rien"
+  },
+  {
+    "extension": "001",
+    "carte": "007",
+    "nom": "Heihei",
+    "sous-nom": "Picoreur de bateau"
+  },
+  {
+    "extension": "001",
+    "carte": "080",
+    "nom": "Iago",
+    "sous-nom": "Perroquet braillard"
+  },
+  {
+    "extension": "001",
+    "carte": "081",
+    "nom": "Jasper",
+    "sous-nom": "Petite frappe"
+  },
+  {
+    "extension": "001",
+    "carte": "082",
+    "nom": "John silver",
+    "sous-nom": "Pirate extraterrestre"
+  },
+  {
+    "extension": "001",
+    "carte": "083",
+    "nom": "Jumba jookiba",
+    "sous-nom": "Scientifique dissident"
+  },
+  {
+    "extension": "001",
+    "carte": "084",
+    "nom": "Kuzco",
+    "sous-nom": "Empereur pourri gate"
+  },
+  {
+    "extension": "001",
+    "carte": "085",
+    "nom": "Madame de tremaine",
+    "sous-nom": "Cruelle maratre"
+  },
+  {
+    "extension": "001",
+    "carte": "086",
+    "nom": "Le chapelier fou",
+    "sous-nom": "Hote courtois"
+  },
+  {
+    "extension": "001",
+    "carte": "087",
+    "nom": "Megara",
+    "sous-nom": "Tireuse de ficelles"
+  },
+  {
+    "extension": "001",
+    "carte": "088",
+    "nom": "Mickey mouse",
+    "sous-nom": "Bandit ruse"
+  },
+  {
+    "extension": "001",
+    "carte": "089",
+    "nom": "Mickey mouse",
+    "sous-nom": "Pilote de bateau a vapeur"
+  },
+  {
+    "extension": "001",
+    "carte": "008",
+    "nom": "Le fou",
+    "sous-nom": "Empote"
+  },
+  {
+    "extension": "001",
+    "carte": "090",
+    "nom": "Mere gothel",
+    "sous-nom": "Manipulatrice egoiste"
+  },
+  {
+    "extension": "001",
+    "carte": "091",
+    "nom": "Peter pan",
+    "sous-nom": "Toujours dans les airs"
+  },
+  {
+    "extension": "001",
+    "carte": "092",
+    "nom": "Tamatoa",
+    "sous-nom": "Petit crabe triste"
+  },
+  {
+    "extension": "001",
+    "carte": "093",
+    "nom": "La fee clochette",
+    "sous-nom": "La plus serviable"
+  },
+  {
+    "extension": "001",
+    "carte": "094",
+    "nom": "Recommence",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "095",
+    "nom": "N ecoute que moi",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "096",
+    "nom": "Ruee",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "097",
+    "nom": "Voler aux riches",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "098",
+    "nom": "Cruelle diablesse",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "099",
+    "nom": "La bete est a moi",
+    "sous-nom": ""
+  },
+  {
+    "extension": "001",
+    "carte": "009",
+    "nom": "Lilo",
+    "sous-nom": "Faisant un v u"
+  },
+  {
+    "extension": "002",
+    "carte": "100",
+    "nom": "Tactique de meute",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "101",
+    "nom": "Sonner la clochette",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "102",
+    "nom": "Piege genial de ratigan",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "103",
+    "nom": "Baloo",
+    "sous-nom": "Ours epicurien"
+  },
+  {
+    "extension": "002",
+    "carte": "104",
+    "nom": "Boun",
+    "sous-nom": "Entrepreneur precoce"
+  },
+  {
+    "extension": "002",
+    "carte": "105",
+    "nom": "Gardes cartes",
+    "sous-nom": "Jeu complet"
+  },
+  {
+    "extension": "002",
+    "carte": "106",
+    "nom": "Donald",
+    "sous-nom": "Pas encore"
+  },
+  {
+    "extension": "002",
+    "carte": "107",
+    "nom": "Felicia",
+    "sous-nom": "Toujours affamee"
+  },
+  {
+    "extension": "002",
+    "carte": "108",
+    "nom": "Fidget",
+    "sous-nom": "Homme de main de ratigan"
+  },
+  {
+    "extension": "002",
+    "carte": "109",
+    "nom": "Grand coquin",
+    "sous-nom": "Porte bien son nom"
+  },
+  {
+    "extension": "002",
+    "carte": "010",
+    "nom": "Grincheux",
+    "sous-nom": "Sale caractere"
+  },
+  {
+    "extension": "002",
+    "carte": "110",
+    "nom": "Madame de tremaine",
+    "sous-nom": "Reine imperieuse"
+  },
+  {
+    "extension": "002",
+    "carte": "111",
+    "nom": "Madame de tremaine",
+    "sous-nom": "Maratre autoritaire"
+  },
+  {
+    "extension": "002",
+    "carte": "112",
+    "nom": "Lumiere",
+    "sous-nom": "Veritable tete brulee"
+  },
+  {
+    "extension": "002",
+    "carte": "113",
+    "nom": "Minnie",
+    "sous-nom": "Surfeuse elegante"
+  },
+  {
+    "extension": "002",
+    "carte": "114",
+    "nom": "Minnie",
+    "sous-nom": "Plongeuse emerveillee"
+  },
+  {
+    "extension": "002",
+    "carte": "115",
+    "nom": "Minnie",
+    "sous-nom": "N arrete jamais"
+  },
+  {
+    "extension": "002",
+    "carte": "116",
+    "nom": "Mere gothel",
+    "sous-nom": "Mauvaise et dessechee"
+  },
+  {
+    "extension": "002",
+    "carte": "117",
+    "nom": "Mulan",
+    "sous-nom": "Tout juste sortie de l entrainement"
+  },
+  {
+    "extension": "002",
+    "carte": "118",
+    "nom": "Namaari",
+    "sous-nom": "Nemesis"
+  },
+  {
+    "extension": "002",
+    "carte": "119",
+    "nom": "La reine de c ur",
+    "sous-nom": "Souveraine impulsive"
+  },
+  {
+    "extension": "002",
+    "carte": "011",
+    "nom": "Joyeux",
+    "sous-nom": "De nature joviale"
+  },
+  {
+    "extension": "002",
+    "carte": "120",
+    "nom": "La reine de c ur",
+    "sous-nom": "Utilise les faiblesses"
+  },
+  {
+    "extension": "002",
+    "carte": "121",
+    "nom": "Ratigan",
+    "sous-nom": "Le plus beau des rats"
+  },
+  {
+    "extension": "002",
+    "carte": "122",
+    "nom": "Raya",
+    "sous-nom": "Obstinee"
+  },
+  {
+    "extension": "002",
+    "carte": "123",
+    "nom": "Raya",
+    "sous-nom": "Cheffe des terres de c ur"
+  },
+  {
+    "extension": "002",
+    "carte": "124",
+    "nom": "Raya",
+    "sous-nom": "Combattante de kumandra"
+  },
+  {
+    "extension": "002",
+    "carte": "125",
+    "nom": "Scar",
+    "sous-nom": "Tricheur vicieux"
+  },
+  {
+    "extension": "002",
+    "carte": "126",
+    "nom": "Shere khan",
+    "sous-nom": "Predateur menacant"
+  },
+  {
+    "extension": "002",
+    "carte": "127",
+    "nom": "Tigrou",
+    "sous-nom": "Unique en son genre"
+  },
+  {
+    "extension": "002",
+    "carte": "128",
+    "nom": "Tuk tuk",
+    "sous-nom": "Boule de demolition"
+  },
+  {
+    "extension": "002",
+    "carte": "129",
+    "nom": "Le monde qui est le mien",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "012",
+    "nom": "Roi louie",
+    "sous-nom": "La jungle est a ses pieds"
+  },
+  {
+    "extension": "002",
+    "carte": "130",
+    "nom": "Votre roi vous invite a la fete",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "131",
+    "nom": "La plus diabolique conjuration",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "132",
+    "nom": "Comment m as",
+    "sous-nom": "Tu nomme"
+  },
+  {
+    "extension": "002",
+    "carte": "133",
+    "nom": "Tu t envoles",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "134",
+    "nom": "Clochette du diner",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "135",
+    "nom": "Dague de peter pan",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "136",
+    "nom": "L epee dans l enclume",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "137",
+    "nom": "Alice",
+    "sous-nom": "En pleine croissance"
+  },
+  {
+    "extension": "002",
+    "carte": "138",
+    "nom": "Basil",
+    "sous-nom": "Detective prive"
+  },
+  {
+    "extension": "002",
+    "carte": "139",
+    "nom": "Basil",
+    "sous-nom": "De baker street"
+  },
+  {
+    "extension": "002",
+    "carte": "013",
+    "nom": "Mickey mouse",
+    "sous-nom": "Visage amical"
+  },
+  {
+    "extension": "002",
+    "carte": "140",
+    "nom": "Basil",
+    "sous-nom": "Enqueteur perspicace"
+  },
+  {
+    "extension": "002",
+    "carte": "141",
+    "nom": "La chenille",
+    "sous-nom": "Chill et vaporeux"
+  },
+  {
+    "extension": "002",
+    "carte": "142",
+    "nom": "Big ben",
+    "sous-nom": "Grand-pere horloge"
+  },
+  {
+    "extension": "002",
+    "carte": "143",
+    "nom": "Big ben",
+    "sous-nom": "Horloge parlante"
+  },
+  {
+    "extension": "002",
+    "carte": "144",
+    "nom": "Cruella d enfer",
+    "sous-nom": "Collection croisiere"
+  },
+  {
+    "extension": "002",
+    "carte": "145",
+    "nom": "Cruella d enfer",
+    "sous-nom": "Cruellement infecte"
+  },
+  {
+    "extension": "002",
+    "carte": "146",
+    "nom": "Duke weaselton",
+    "sous-nom": "Escroc a la petite semaine"
+  },
+  {
+    "extension": "002",
+    "carte": "147",
+    "nom": "Gaston",
+    "sous-nom": "Fort du cerveau"
+  },
+  {
+    "extension": "002",
+    "carte": "148",
+    "nom": "Grand pabbie",
+    "sous-nom": "Le plus vieux et le plus sage"
+  },
+  {
+    "extension": "002",
+    "carte": "149",
+    "nom": "Flaversham",
+    "sous-nom": "Fabricant de jouets"
+  },
+  {
+    "extension": "002",
+    "carte": "014",
+    "nom": "Mufasa",
+    "sous-nom": "Roi trahi"
+  },
+  {
+    "extension": "002",
+    "carte": "150",
+    "nom": "James",
+    "sous-nom": "Parent modele"
+  },
+  {
+    "extension": "002",
+    "carte": "151",
+    "nom": "Jasmine",
+    "sous-nom": "Heritiere d agrabah"
+  },
+  {
+    "extension": "002",
+    "carte": "152",
+    "nom": "Judy hopps",
+    "sous-nom": "Policiere optimiste"
+  },
+  {
+    "extension": "002",
+    "carte": "153",
+    "nom": "Madame judson",
+    "sous-nom": "Gouvernante"
+  },
+  {
+    "extension": "002",
+    "carte": "154",
+    "nom": "Nick wilde",
+    "sous-nom": "Ruse comme un renard"
+  },
+  {
+    "extension": "002",
+    "carte": "155",
+    "nom": "Bebe noi",
+    "sous-nom": "Voleuse orpheline"
+  },
+  {
+    "extension": "002",
+    "carte": "156",
+    "nom": "Maitre hibou",
+    "sous-nom": "Conferencier a la logique implacable"
+  },
+  {
+    "extension": "002",
+    "carte": "157",
+    "nom": "Prince charmant",
+    "sous-nom": "Heritier du trone"
+  },
+  {
+    "extension": "002",
+    "carte": "158",
+    "nom": "Coco lapin",
+    "sous-nom": "Hote malge lui"
+  },
+  {
+    "extension": "002",
+    "carte": "159",
+    "nom": "Sisu",
+    "sous-nom": "Dragon d eau divin"
+  },
+  {
+    "extension": "002",
+    "carte": "015",
+    "nom": "Mulan",
+    "sous-nom": "Esprit libre"
+  },
+  {
+    "extension": "002",
+    "carte": "160",
+    "nom": "Nokk",
+    "sous-nom": "Esprit de l eau"
+  },
+  {
+    "extension": "002",
+    "carte": "161",
+    "nom": "Winnie l ourson",
+    "sous-nom": "Pense pense pense"
+  },
+  {
+    "extension": "002",
+    "carte": "162",
+    "nom": "Chute dans le terrier du lapin",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "163",
+    "nom": "Quatre douzaines d ufs",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "164",
+    "nom": "Projectile de fortune",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "165",
+    "nom": "Rien a cacher",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "166",
+    "nom": "Arbalete de croc du dragon",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "167",
+    "nom": "Marmite de gumbo",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "168",
+    "nom": "Atelier de maurice",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "169",
+    "nom": "Glace a l eau",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "016",
+    "nom": "Mulan",
+    "sous-nom": "En pleine reflexion"
+  },
+  {
+    "extension": "002",
+    "carte": "170",
+    "nom": "Boite de sardines",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "171",
+    "nom": "La bete",
+    "sous-nom": "Reclus inhospitalier"
+  },
+  {
+    "extension": "002",
+    "carte": "172",
+    "nom": "La bete",
+    "sous-nom": "Pret a se sacrifier"
+  },
+  {
+    "extension": "002",
+    "carte": "173",
+    "nom": "La bete",
+    "sous-nom": "Heros tragique"
+  },
+  {
+    "extension": "002",
+    "carte": "174",
+    "nom": "Benja",
+    "sous-nom": "Gardien de la pierre de dragon"
+  },
+  {
+    "extension": "002",
+    "carte": "175",
+    "nom": "Chef bogo",
+    "sous-nom": "Officier respecte"
+  },
+  {
+    "extension": "002",
+    "carte": "176",
+    "nom": "Cendrillon",
+    "sous-nom": "Chevalier a l entrainement"
+  },
+  {
+    "extension": "002",
+    "carte": "177",
+    "nom": "Cendrillon",
+    "sous-nom": "C ur vaillant"
+  },
+  {
+    "extension": "002",
+    "carte": "178",
+    "nom": "Donald",
+    "sous-nom": "Plongeur en eau profonde"
+  },
+  {
+    "extension": "002",
+    "carte": "179",
+    "nom": "Eli leb uf",
+    "sous-nom": "Big daddy"
+  },
+  {
+    "extension": "002",
+    "carte": "017",
+    "nom": "Nana",
+    "sous-nom": "Chienne de la famille darling"
+  },
+  {
+    "extension": "002",
+    "carte": "180",
+    "nom": "Dingo",
+    "sous-nom": "Chevalier pour un jour"
+  },
+  {
+    "extension": "002",
+    "carte": "181",
+    "nom": "Hercule",
+    "sous-nom": "Heros divin"
+  },
+  {
+    "extension": "002",
+    "carte": "182",
+    "nom": "Hercule",
+    "sous-nom": "Heros a l entrainement"
+  },
+  {
+    "extension": "002",
+    "carte": "183",
+    "nom": "Jafar",
+    "sous-nom": "Serpent cuirasse"
+  },
+  {
+    "extension": "002",
+    "carte": "184",
+    "nom": "Jafar",
+    "sous-nom": "Grand vizir"
+  },
+  {
+    "extension": "002",
+    "carte": "185",
+    "nom": "Kronk",
+    "sous-nom": "Ragondin junior"
+  },
+  {
+    "extension": "002",
+    "carte": "186",
+    "nom": "Lawrence",
+    "sous-nom": "Valet jaloux"
+  },
+  {
+    "extension": "002",
+    "carte": "187",
+    "nom": "Li shang",
+    "sous-nom": "Instructeur d archerie"
+  },
+  {
+    "extension": "002",
+    "carte": "188",
+    "nom": "Balais magiques",
+    "sous-nom": "Modele industriel"
+  },
+  {
+    "extension": "002",
+    "carte": "189",
+    "nom": "Namaari",
+    "sous-nom": "Brume matinale"
+  },
+  {
+    "extension": "002",
+    "carte": "018",
+    "nom": "Porcinet",
+    "sous-nom": "Si petit animal"
+  },
+  {
+    "extension": "002",
+    "carte": "190",
+    "nom": "Pacha",
+    "sous-nom": "Chef de village"
+  },
+  {
+    "extension": "002",
+    "carte": "191",
+    "nom": "Prince naveen",
+    "sous-nom": "Prince sans le sou"
+  },
+  {
+    "extension": "002",
+    "carte": "192",
+    "nom": "La reine de c ur",
+    "sous-nom": "Monarque capricieuse"
+  },
+  {
+    "extension": "002",
+    "carte": "193",
+    "nom": "Robin des bois",
+    "sous-nom": "Habile combattant"
+  },
+  {
+    "extension": "002",
+    "carte": "194",
+    "nom": "Le chasseur",
+    "sous-nom": "Homme de main reticent"
+  },
+  {
+    "extension": "002",
+    "carte": "195",
+    "nom": "Le prince",
+    "sous-nom": "N abandonne jamais"
+  },
+  {
+    "extension": "002",
+    "carte": "196",
+    "nom": "Tiana",
+    "sous-nom": "Princesse en fete"
+  },
+  {
+    "extension": "002",
+    "carte": "197",
+    "nom": "Tiana",
+    "sous-nom": "Serveuse consciencieuse"
+  },
+  {
+    "extension": "002",
+    "carte": "198",
+    "nom": "Fonce",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "199",
+    "nom": "Perdue dans l hiver",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "019",
+    "nom": "Raiponce",
+    "sous-nom": "Artiste douee"
+  },
+  {
+    "extension": "002",
+    "carte": "001",
+    "nom": "Timide",
+    "sous-nom": "Grand sentimental"
+  },
+  {
+    "extension": "002",
+    "carte": "200",
+    "nom": "Choisir son combat",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "201",
+    "nom": "Plus ardent que le feu des volcans",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "202",
+    "nom": "Dernier canon",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "203",
+    "nom": "Armure de souris",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "204",
+    "nom": "Halteres",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "205",
+    "nom": "Cendrillon",
+    "sous-nom": "Fait sensation au bal"
+  },
+  {
+    "extension": "002",
+    "carte": "206",
+    "nom": "Blanche",
+    "sous-nom": "Neige - fait un v u"
+  },
+  {
+    "extension": "002",
+    "carte": "207",
+    "nom": "Arthur",
+    "sous-nom": "Apprenti de l enchanteur"
+  },
+  {
+    "extension": "002",
+    "carte": "208",
+    "nom": "Madame mime",
+    "sous-nom": "En dragon"
+  },
+  {
+    "extension": "002",
+    "carte": "209",
+    "nom": "Pat",
+    "sous-nom": "Mauvais garcon"
+  },
+  {
+    "extension": "002",
+    "carte": "020",
+    "nom": "Raiponce",
+    "sous-nom": "Solaire"
+  },
+  {
+    "extension": "002",
+    "carte": "210",
+    "nom": "La bete",
+    "sous-nom": "Implacable"
+  },
+  {
+    "extension": "002",
+    "carte": "211",
+    "nom": "Madame de tremaine",
+    "sous-nom": "Reine imperieuse"
+  },
+  {
+    "extension": "002",
+    "carte": "212",
+    "nom": "Shere khan",
+    "sous-nom": "Predateur menacant"
+  },
+  {
+    "extension": "002",
+    "carte": "213",
+    "nom": "Alice",
+    "sous-nom": "En pleine croissance"
+  },
+  {
+    "extension": "002",
+    "carte": "214",
+    "nom": "Sisu",
+    "sous-nom": "Dragon d eau divin"
+  },
+  {
+    "extension": "002",
+    "carte": "215",
+    "nom": "Hercule",
+    "sous-nom": "Heros divin"
+  },
+  {
+    "extension": "002",
+    "carte": "216",
+    "nom": "Namaari",
+    "sous-nom": "Brume matinale"
+  },
+  {
+    "extension": "002",
+    "carte": "021",
+    "nom": "Dormeur",
+    "sous-nom": "Tombe de fatigue"
+  },
+  {
+    "extension": "002",
+    "carte": "022",
+    "nom": "Atchoum",
+    "sous-nom": "Tres allergique"
+  },
+  {
+    "extension": "002",
+    "carte": "023",
+    "nom": "Blanche",
+    "sous-nom": "Neige - perdue dans la foret"
+  },
+  {
+    "extension": "002",
+    "carte": "024",
+    "nom": "Blanche",
+    "sous-nom": "Neige - invitee inattendue"
+  },
+  {
+    "extension": "002",
+    "carte": "025",
+    "nom": "Blanche",
+    "sous-nom": "Neige - fait un v u"
+  },
+  {
+    "extension": "002",
+    "carte": "026",
+    "nom": "La reine",
+    "sous-nom": "Autorite naturelle"
+  },
+  {
+    "extension": "002",
+    "carte": "027",
+    "nom": "La reine",
+    "sous-nom": "Monarque absolue"
+  },
+  {
+    "extension": "002",
+    "carte": "028",
+    "nom": "Ne bougez pas",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "029",
+    "nom": "Ultime combat",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "002",
+    "nom": "Jean",
+    "sous-nom": "Christophe - aventurier"
+  },
+  {
+    "extension": "002",
+    "carte": "030",
+    "nom": "Peignons les roses en rouge",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "031",
+    "nom": "Le grand genie du mal",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "032",
+    "nom": "De zero en heros",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "033",
+    "nom": "Pierre de dragon",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "034",
+    "nom": "Flute de dormeur",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "035",
+    "nom": "Arthur",
+    "sous-nom": "Apprenti de l enchanteur"
+  },
+  {
+    "extension": "002",
+    "carte": "036",
+    "nom": "La fee bleue",
+    "sous-nom": "Recompense les bonnes actions"
+  },
+  {
+    "extension": "002",
+    "carte": "037",
+    "nom": "Zip",
+    "sous-nom": "Ame innocente"
+  },
+  {
+    "extension": "002",
+    "carte": "038",
+    "nom": "Dr facilier",
+    "sous-nom": "Opportuniste bien renseigne"
+  },
+  {
+    "extension": "002",
+    "carte": "039",
+    "nom": "Elsa",
+    "sous-nom": "Sans gants"
+  },
+  {
+    "extension": "002",
+    "carte": "003",
+    "nom": "Cendrillon",
+    "sous-nom": "Fait sensation au bal"
+  },
+  {
+    "extension": "002",
+    "carte": "040",
+    "nom": "La bonne fee",
+    "sous-nom": "La pour aider"
+  },
+  {
+    "extension": "002",
+    "carte": "041",
+    "nom": "La bonne fee",
+    "sous-nom": "Armuriere mystique"
+  },
+  {
+    "extension": "002",
+    "carte": "042",
+    "nom": "La bonne fee",
+    "sous-nom": "Au c ur pur"
+  },
+  {
+    "extension": "002",
+    "carte": "043",
+    "nom": "Heihei",
+    "sous-nom": "Volatile tenace"
+  },
+  {
+    "extension": "002",
+    "carte": "044",
+    "nom": "Jiminy cricket",
+    "sous-nom": "Conscience de pinocchio"
+  },
+  {
+    "extension": "002",
+    "carte": "045",
+    "nom": "Kuzco",
+    "sous-nom": "Lama recherche"
+  },
+  {
+    "extension": "002",
+    "carte": "046",
+    "nom": "Madame mime",
+    "sous-nom": "En renard"
+  },
+  {
+    "extension": "002",
+    "carte": "047",
+    "nom": "Madame mime",
+    "sous-nom": "En dragon"
+  },
+  {
+    "extension": "002",
+    "carte": "048",
+    "nom": "Madame mime",
+    "sous-nom": "Rivale de merlin"
+  },
+  {
+    "extension": "002",
+    "carte": "049",
+    "nom": "Madame mime",
+    "sous-nom": "En serpent"
+  },
+  {
+    "extension": "002",
+    "carte": "004",
+    "nom": "Cobra bubbles",
+    "sous-nom": "Simple educateur"
+  },
+  {
+    "extension": "002",
+    "carte": "050",
+    "nom": "Merlin",
+    "sous-nom": "En crabe"
+  },
+  {
+    "extension": "002",
+    "carte": "051",
+    "nom": "Merlin",
+    "sous-nom": "En chevre"
+  },
+  {
+    "extension": "002",
+    "carte": "052",
+    "nom": "Merlin",
+    "sous-nom": "En lapin"
+  },
+  {
+    "extension": "002",
+    "carte": "053",
+    "nom": "Merlin",
+    "sous-nom": "Metamorphe"
+  },
+  {
+    "extension": "002",
+    "carte": "054",
+    "nom": "Merlin",
+    "sous-nom": "En ecureuil"
+  },
+  {
+    "extension": "002",
+    "carte": "055",
+    "nom": "Ombre de peter pan",
+    "sous-nom": "Decousue"
+  },
+  {
+    "extension": "002",
+    "carte": "056",
+    "nom": "Pinocchio",
+    "sous-nom": "Clou du spectacle"
+  },
+  {
+    "extension": "002",
+    "carte": "057",
+    "nom": "Pinocchio",
+    "sous-nom": "Livre a lui-meme"
+  },
+  {
+    "extension": "002",
+    "carte": "058",
+    "nom": "Pinocchio",
+    "sous-nom": "Marionnette bavarde"
+  },
+  {
+    "extension": "002",
+    "carte": "059",
+    "nom": "Winnie l ourson",
+    "sous-nom": "Magicien mellifique"
+  },
+  {
+    "extension": "002",
+    "carte": "005",
+    "nom": "Prof",
+    "sous-nom": "Chef des sept nains"
+  },
+  {
+    "extension": "002",
+    "carte": "060",
+    "nom": "Yzma",
+    "sous-nom": "Fait peur sans faire expres"
+  },
+  {
+    "extension": "002",
+    "carte": "061",
+    "nom": "Yzma",
+    "sous-nom": "Manque de sommeil"
+  },
+  {
+    "extension": "002",
+    "carte": "062",
+    "nom": "Le macabre et la terreur",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "063",
+    "nom": "Je suis coince",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "064",
+    "nom": "La legende de l epee dans l enclume",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "065",
+    "nom": "Contrat irrevocable",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "066",
+    "nom": "Maillet de croquet",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "067",
+    "nom": "Panneaux deroutants",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "068",
+    "nom": "Grimoire du sorcier",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "069",
+    "nom": "Arthur",
+    "sous-nom": "Devenu fine lame"
+  },
+  {
+    "extension": "002",
+    "carte": "006",
+    "nom": "Simplet",
+    "sous-nom": "Toujours enjoue"
+  },
+  {
+    "extension": "002",
+    "carte": "070",
+    "nom": "La bete",
+    "sous-nom": "Implacable"
+  },
+  {
+    "extension": "002",
+    "carte": "071",
+    "nom": "Belle",
+    "sous-nom": "Rat de bibliotheque"
+  },
+  {
+    "extension": "002",
+    "carte": "072",
+    "nom": "Belle",
+    "sous-nom": "Archere dissimulee"
+  },
+  {
+    "extension": "002",
+    "carte": "073",
+    "nom": "Bucky",
+    "sous-nom": "Professeur de squeak"
+  },
+  {
+    "extension": "002",
+    "carte": "074",
+    "nom": "Chat du cheshire",
+    "sous-nom": "Toujours ce sourire"
+  },
+  {
+    "extension": "002",
+    "carte": "075",
+    "nom": "Chat du cheshire",
+    "sous-nom": "Sorti de l ombre"
+  },
+  {
+    "extension": "002",
+    "carte": "076",
+    "nom": "Daisy",
+    "sous-nom": "Agente secrete"
+  },
+  {
+    "extension": "002",
+    "carte": "077",
+    "nom": "Donald",
+    "sous-nom": "Parfait gentleman"
+  },
+  {
+    "extension": "002",
+    "carte": "078",
+    "nom": "Donald",
+    "sous-nom": "Somnambule"
+  },
+  {
+    "extension": "002",
+    "carte": "079",
+    "nom": "Dr facilier",
+    "sous-nom": "Lit dans les cartes"
+  },
+  {
+    "extension": "002",
+    "carte": "007",
+    "nom": "Eudora",
+    "sous-nom": "Couturiere accomplie"
+  },
+  {
+    "extension": "002",
+    "carte": "080",
+    "nom": "L enchanteresse",
+    "sous-nom": "Juge inattendue"
+  },
+  {
+    "extension": "002",
+    "carte": "081",
+    "nom": "Flynn rider",
+    "sous-nom": "Vagabond sur de lui"
+  },
+  {
+    "extension": "002",
+    "carte": "082",
+    "nom": "Flynn rider",
+    "sous-nom": "Son plus grand fan"
+  },
+  {
+    "extension": "002",
+    "carte": "083",
+    "nom": "Gaston",
+    "sous-nom": "Pretendant fourbe"
+  },
+  {
+    "extension": "002",
+    "carte": "084",
+    "nom": "Petit jean",
+    "sous-nom": "Ami loyal"
+  },
+  {
+    "extension": "002",
+    "carte": "085",
+    "nom": "Lucifer",
+    "sous-nom": "Chat sournois"
+  },
+  {
+    "extension": "002",
+    "carte": "086",
+    "nom": "Peine",
+    "sous-nom": "Diablotin des enfers"
+  },
+  {
+    "extension": "002",
+    "carte": "087",
+    "nom": "Panique",
+    "sous-nom": "Diablotin des enfers"
+  },
+  {
+    "extension": "002",
+    "carte": "088",
+    "nom": "Pat",
+    "sous-nom": "Mauvais garcon"
+  },
+  {
+    "extension": "002",
+    "carte": "089",
+    "nom": "Prince jean",
+    "sous-nom": "Le plus cupide de tous"
+  },
+  {
+    "extension": "002",
+    "carte": "008",
+    "nom": "Gaston",
+    "sous-nom": "Brute et baryton"
+  },
+  {
+    "extension": "002",
+    "carte": "090",
+    "nom": "La reine de c ur",
+    "sous-nom": "Rapidement en colere"
+  },
+  {
+    "extension": "002",
+    "carte": "091",
+    "nom": "Ratigan",
+    "sous-nom": "Genie du crime"
+  },
+  {
+    "extension": "002",
+    "carte": "092",
+    "nom": "Ray",
+    "sous-nom": "Luciole decontractee"
+  },
+  {
+    "extension": "002",
+    "carte": "093",
+    "nom": "La reine",
+    "sous-nom": "Deguisee en mendiante"
+  },
+  {
+    "extension": "002",
+    "carte": "094",
+    "nom": "Tiana",
+    "sous-nom": "Veritable princesse"
+  },
+  {
+    "extension": "002",
+    "carte": "095",
+    "nom": "Virana",
+    "sous-nom": "Cheffe de croc du dragon"
+  },
+  {
+    "extension": "002",
+    "carte": "096",
+    "nom": "Bibbidi bobbidi boo",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "097",
+    "nom": "Rebondir",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "098",
+    "nom": "Hypnotiser",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "099",
+    "nom": "Improviser",
+    "sous-nom": ""
+  },
+  {
+    "extension": "002",
+    "carte": "009",
+    "nom": "Grand duke",
+    "sous-nom": "Conseiller du roi"
+  },
+  {
+    "extension": "003",
+    "carte": "100",
+    "nom": "Le manoir d enfer",
+    "sous-nom": "Propriete de cruella"
+  },
+  {
+    "extension": "003",
+    "carte": "101",
+    "nom": "Croc du dragon",
+    "sous-nom": "Cite des rivieres"
+  },
+  {
+    "extension": "003",
+    "carte": "102",
+    "nom": "Palais de kuzco",
+    "sous-nom": "Residence de l empereur"
+  },
+  {
+    "extension": "003",
+    "carte": "103",
+    "nom": "Ariel",
+    "sous-nom": "Collectionneuse intrepide"
+  },
+  {
+    "extension": "003",
+    "carte": "104",
+    "nom": "Billy bones",
+    "sous-nom": "Gardien de la carte"
+  },
+  {
+    "extension": "003",
+    "carte": "105",
+    "nom": "Capitaine crochet",
+    "sous-nom": "Maitre epeiste"
+  },
+  {
+    "extension": "003",
+    "carte": "106",
+    "nom": "Della duck",
+    "sous-nom": "Mere inarretable"
+  },
+  {
+    "extension": "003",
+    "carte": "107",
+    "nom": "Heihei",
+    "sous-nom": "Explorateur accidentel"
+  },
+  {
+    "extension": "003",
+    "carte": "108",
+    "nom": "L hydre",
+    "sous-nom": "Serpent mortel"
+  },
+  {
+    "extension": "003",
+    "carte": "109",
+    "nom": "Jim hawkins",
+    "sous-nom": "Voyageur de l espace"
+  },
+  {
+    "extension": "003",
+    "carte": "010",
+    "nom": "Miss bianca",
+    "sous-nom": "Agente de s o s societe"
+  },
+  {
+    "extension": "003",
+    "carte": "110",
+    "nom": "Jim hawkins",
+    "sous-nom": "Cherche des sensations fortes"
+  },
+  {
+    "extension": "003",
+    "carte": "111",
+    "nom": "Kakamora",
+    "sous-nom": "Marin menacant"
+  },
+  {
+    "extension": "003",
+    "carte": "112",
+    "nom": "Madame medusa",
+    "sous-nom": "La patronne"
+  },
+  {
+    "extension": "003",
+    "carte": "113",
+    "nom": "Maui",
+    "sous-nom": "Demi-dieu planant"
+  },
+  {
+    "extension": "003",
+    "carte": "114",
+    "nom": "Maui",
+    "sous-nom": "Baleine"
+  },
+  {
+    "extension": "003",
+    "carte": "115",
+    "nom": "Milo thatch",
+    "sous-nom": "Savant intrepide"
+  },
+  {
+    "extension": "003",
+    "carte": "116",
+    "nom": "Vaiana",
+    "sous-nom": "Cheffe nee"
+  },
+  {
+    "extension": "003",
+    "carte": "117",
+    "nom": "Vaiana",
+    "sous-nom": "Voyageuse jamais decouragee"
+  },
+  {
+    "extension": "003",
+    "carte": "118",
+    "nom": "Niquedouille",
+    "sous-nom": "Sbire vautour"
+  },
+  {
+    "extension": "003",
+    "carte": "119",
+    "nom": "Peter pan",
+    "sous-nom": "Heros du pays imaginaire"
+  },
+  {
+    "extension": "003",
+    "carte": "011",
+    "nom": "Mr snoops",
+    "sous-nom": "Homme d affaires inepte"
+  },
+  {
+    "extension": "003",
+    "carte": "120",
+    "nom": "Peter pan",
+    "sous-nom": "Fleau des pirates"
+  },
+  {
+    "extension": "003",
+    "carte": "121",
+    "nom": "Prince eric",
+    "sous-nom": "Maitre timonier"
+  },
+  {
+    "extension": "003",
+    "carte": "122",
+    "nom": "Scroop",
+    "sous-nom": "Traitre"
+  },
+  {
+    "extension": "003",
+    "carte": "123",
+    "nom": "Simba",
+    "sous-nom": "Lionceau bagarreur"
+  },
+  {
+    "extension": "003",
+    "carte": "124",
+    "nom": "La plume",
+    "sous-nom": "Enfant perdu"
+  },
+  {
+    "extension": "003",
+    "carte": "125",
+    "nom": "Stitch",
+    "sous-nom": "Petite fusee"
+  },
+  {
+    "extension": "003",
+    "carte": "126",
+    "nom": "Pendard",
+    "sous-nom": "Tireur pas si precis que ca"
+  },
+  {
+    "extension": "003",
+    "carte": "127",
+    "nom": "Zaza",
+    "sous-nom": "Canette enthousiaste"
+  },
+  {
+    "extension": "003",
+    "carte": "128",
+    "nom": "Bombardement en pique",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "129",
+    "nom": "Moi j ai un reve",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "012",
+    "nom": "Nani",
+    "sous-nom": "S ur protectrice"
+  },
+  {
+    "extension": "003",
+    "carte": "130",
+    "nom": "Debout tout de suite",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "131",
+    "nom": "Voyage",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "132",
+    "nom": "L hamecon de maui",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "133",
+    "nom": "Talisman sumerien",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "134",
+    "nom": "Agrabah",
+    "sous-nom": "Place du marche"
+  },
+  {
+    "extension": "003",
+    "carte": "135",
+    "nom": "Jolly roger",
+    "sous-nom": "Navire du capitaine crochet"
+  },
+  {
+    "extension": "003",
+    "carte": "136",
+    "nom": "Rls heritage",
+    "sous-nom": "Galion solaire"
+  },
+  {
+    "extension": "003",
+    "carte": "137",
+    "nom": "Audrey ramirez",
+    "sous-nom": "L ingenieure"
+  },
+  {
+    "extension": "003",
+    "carte": "138",
+    "nom": "Capitaine amelia",
+    "sous-nom": "Commande le vaisseau"
+  },
+  {
+    "extension": "003",
+    "carte": "139",
+    "nom": "Fifi",
+    "sous-nom": "Neveu frimeur"
+  },
+  {
+    "extension": "003",
+    "carte": "013",
+    "nom": "Orville",
+    "sous-nom": "As de l aviation"
+  },
+  {
+    "extension": "003",
+    "carte": "140",
+    "nom": "Archibald gripsou",
+    "sous-nom": "Tricheur solitaire"
+  },
+  {
+    "extension": "003",
+    "carte": "141",
+    "nom": "Genie",
+    "sous-nom": "Coince dans la lampe"
+  },
+  {
+    "extension": "003",
+    "carte": "142",
+    "nom": "Grand",
+    "sous-nom": "Mere tala - gardienne des histoires ancestrales"
+  },
+  {
+    "extension": "003",
+    "carte": "143",
+    "nom": "Grand",
+    "sous-nom": "Mere tala - esprit de l ocean"
+  },
+  {
+    "extension": "003",
+    "carte": "144",
+    "nom": "Geo trouvetou",
+    "sous-nom": "Genie des gadgets"
+  },
+  {
+    "extension": "003",
+    "carte": "145",
+    "nom": "Riri",
+    "sous-nom": "Neveu astucieux"
+  },
+  {
+    "extension": "003",
+    "carte": "146",
+    "nom": "Roi louie",
+    "sous-nom": "Chef de bande"
+  },
+  {
+    "extension": "003",
+    "carte": "147",
+    "nom": "Kit",
+    "sous-nom": "Copilote"
+  },
+  {
+    "extension": "003",
+    "carte": "148",
+    "nom": "Kit",
+    "sous-nom": "Ourson intrepide"
+  },
+  {
+    "extension": "003",
+    "carte": "149",
+    "nom": "Loulou",
+    "sous-nom": "Neveu cool"
+  },
+  {
+    "extension": "003",
+    "carte": "014",
+    "nom": "Patch",
+    "sous-nom": "Chiot intimidant"
+  },
+  {
+    "extension": "003",
+    "carte": "150",
+    "nom": "Belle marianne",
+    "sous-nom": "Charmante reveuse"
+  },
+  {
+    "extension": "003",
+    "carte": "151",
+    "nom": "Mama odie",
+    "sous-nom": "Experte mystique"
+  },
+  {
+    "extension": "003",
+    "carte": "152",
+    "nom": "Pluto",
+    "sous-nom": "Ami fute de mickey"
+  },
+  {
+    "extension": "003",
+    "carte": "153",
+    "nom": "Rufus",
+    "sous-nom": "Chat d orphelinat"
+  },
+  {
+    "extension": "003",
+    "carte": "154",
+    "nom": "Balthazar picsou",
+    "sous-nom": "Canard le plus riche du monde"
+  },
+  {
+    "extension": "003",
+    "carte": "155",
+    "nom": "Balthazar picsou",
+    "sous-nom": "Oncle plein aux as"
+  },
+  {
+    "extension": "003",
+    "carte": "156",
+    "nom": "La reine",
+    "sous-nom": "Narcissique"
+  },
+  {
+    "extension": "003",
+    "carte": "157",
+    "nom": "La fee clochette",
+    "sous-nom": "Fee tres maline"
+  },
+  {
+    "extension": "003",
+    "carte": "158",
+    "nom": "Wendy darling",
+    "sous-nom": "Autorite sur peter pan"
+  },
+  {
+    "extension": "003",
+    "carte": "159",
+    "nom": "Distraction",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "015",
+    "nom": "Perdita",
+    "sous-nom": "Mere devouee"
+  },
+  {
+    "extension": "003",
+    "carte": "160",
+    "nom": "Je suis ton meilleur ami",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "161",
+    "nom": "Le bleu lumiere",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "162",
+    "nom": "Reparation",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "163",
+    "nom": "Gyroscope lumineux",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "164",
+    "nom": "Le c ur de te fiti",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "165",
+    "nom": "Sou fetiche",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "166",
+    "nom": "Haut",
+    "sous-nom": "De-forme de picsou"
+  },
+  {
+    "extension": "003",
+    "carte": "167",
+    "nom": "Porte du coffre",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "168",
+    "nom": "La maison de belle",
+    "sous-nom": "Atelier de maurice"
+  },
+  {
+    "extension": "003",
+    "carte": "169",
+    "nom": "Le manoir de picsou",
+    "sous-nom": "Residence de picsou"
+  },
+  {
+    "extension": "003",
+    "carte": "016",
+    "nom": "Porcinet",
+    "sous-nom": "Capitaine pirate de winnie"
+  },
+  {
+    "extension": "003",
+    "carte": "170",
+    "nom": "Motunui",
+    "sous-nom": "Ile paradisiaque"
+  },
+  {
+    "extension": "003",
+    "carte": "171",
+    "nom": "Tui",
+    "sous-nom": "Fier de motunui"
+  },
+  {
+    "extension": "003",
+    "carte": "172",
+    "nom": "Bourriquet",
+    "sous-nom": "Ane trop rembourre"
+  },
+  {
+    "extension": "003",
+    "carte": "173",
+    "nom": "Gustave le geant",
+    "sous-nom": "Terreur du royaume"
+  },
+  {
+    "extension": "003",
+    "carte": "174",
+    "nom": "Hades",
+    "sous-nom": "Souverain enflamme"
+  },
+  {
+    "extension": "003",
+    "carte": "175",
+    "nom": "Helga sinclair",
+    "sous-nom": "Bras droit"
+  },
+  {
+    "extension": "003",
+    "carte": "176",
+    "nom": "John silver",
+    "sous-nom": "Chasseur de tresor avide"
+  },
+  {
+    "extension": "003",
+    "carte": "177",
+    "nom": "Kida",
+    "sous-nom": "Guerriere royale"
+  },
+  {
+    "extension": "003",
+    "carte": "178",
+    "nom": "Petit jean",
+    "sous-nom": "Hors-la-loi plein de ressources"
+  },
+  {
+    "extension": "003",
+    "carte": "179",
+    "nom": "Petit jean",
+    "sous-nom": "Compagnon de robin"
+  },
+  {
+    "extension": "003",
+    "carte": "017",
+    "nom": "Pluto",
+    "sous-nom": "Protecteur determine"
+  },
+  {
+    "extension": "003",
+    "carte": "180",
+    "nom": "Lythos",
+    "sous-nom": "Titan de pierre"
+  },
+  {
+    "extension": "003",
+    "carte": "181",
+    "nom": "Mickey mouse",
+    "sous-nom": "Vaillant explorateur"
+  },
+  {
+    "extension": "003",
+    "carte": "182",
+    "nom": "Mickey mouse",
+    "sous-nom": "Trompettiste"
+  },
+  {
+    "extension": "003",
+    "carte": "183",
+    "nom": "Minnie",
+    "sous-nom": "Speleologue funky"
+  },
+  {
+    "extension": "003",
+    "carte": "184",
+    "nom": "Monsieur mouche",
+    "sous-nom": "Matelos empote"
+  },
+  {
+    "extension": "003",
+    "carte": "185",
+    "nom": "Mufasa",
+    "sous-nom": "Champion de la terre des lions"
+  },
+  {
+    "extension": "003",
+    "carte": "186",
+    "nom": "Nala",
+    "sous-nom": "Amie farouche"
+  },
+  {
+    "extension": "003",
+    "carte": "187",
+    "nom": "Pyros",
+    "sous-nom": "Titan de lave"
+  },
+  {
+    "extension": "003",
+    "carte": "188",
+    "nom": "Razoul",
+    "sous-nom": "Garde du palais"
+  },
+  {
+    "extension": "003",
+    "carte": "189",
+    "nom": "Robin des bois",
+    "sous-nom": "Hors-la-loi adore"
+  },
+  {
+    "extension": "003",
+    "carte": "018",
+    "nom": "Pluto",
+    "sous-nom": "Gentil cabot"
+  },
+  {
+    "extension": "003",
+    "carte": "190",
+    "nom": "Robin des bois",
+    "sous-nom": "Champion de sherwood"
+  },
+  {
+    "extension": "003",
+    "carte": "191",
+    "nom": "Sherif de nottingham",
+    "sous-nom": "Officiellement corrompu"
+  },
+  {
+    "extension": "003",
+    "carte": "192",
+    "nom": "Simba",
+    "sous-nom": "Prince combattif"
+  },
+  {
+    "extension": "003",
+    "carte": "193",
+    "nom": "Simba",
+    "sous-nom": "Roi legitime"
+  },
+  {
+    "extension": "003",
+    "carte": "194",
+    "nom": "Gulliver glas",
+    "sous-nom": "Chef metallique"
+  },
+  {
+    "extension": "003",
+    "carte": "195",
+    "nom": "Quand soudain survint zeus",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "196",
+    "nom": "Ba",
+    "sous-nom": "Boum"
+  },
+  {
+    "extension": "003",
+    "carte": "197",
+    "nom": "L olympe ce serait pas plutot par la",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "198",
+    "nom": "Liberer les titans",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "199",
+    "nom": "Rapiere du capitaine crochet",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "019",
+    "nom": "Pongo",
+    "sous-nom": "Pere perseverant"
+  },
+  {
+    "extension": "003",
+    "carte": "001",
+    "nom": "Baloo",
+    "sous-nom": "Von bruinwald xiii"
+  },
+  {
+    "extension": "003",
+    "carte": "200",
+    "nom": "Le costume de robotik",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "201",
+    "nom": "Carte de la planete au tresor",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "202",
+    "nom": "Ile d exil de maui",
+    "sous-nom": "Rocher cache"
+  },
+  {
+    "extension": "003",
+    "carte": "203",
+    "nom": "Nottingham",
+    "sous-nom": "Chateau du prince jean"
+  },
+  {
+    "extension": "003",
+    "carte": "204",
+    "nom": "Le bayou",
+    "sous-nom": "Marais mysterieux"
+  },
+  {
+    "extension": "003",
+    "carte": "205",
+    "nom": "Chernabog",
+    "sous-nom": "Repand le mal"
+  },
+  {
+    "extension": "003",
+    "carte": "206",
+    "nom": "Kida",
+    "sous-nom": "Protectrice de l atlantide"
+  },
+  {
+    "extension": "003",
+    "carte": "207",
+    "nom": "La terre des lions",
+    "sous-nom": "Le rocher des lions"
+  },
+  {
+    "extension": "003",
+    "carte": "208",
+    "nom": "Jafar",
+    "sous-nom": "Illusionniste ensorcelant"
+  },
+  {
+    "extension": "003",
+    "carte": "209",
+    "nom": "Malefique",
+    "sous-nom": "Maitresse du mal"
+  },
+  {
+    "extension": "003",
+    "carte": "020",
+    "nom": "La reine de c ur",
+    "sous-nom": "Imperatrice du pays des merveilles"
+  },
+  {
+    "extension": "003",
+    "carte": "210",
+    "nom": "Le chapeau de sorcier",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "211",
+    "nom": "Morph",
+    "sous-nom": "Gluant de l espace"
+  },
+  {
+    "extension": "003",
+    "carte": "212",
+    "nom": "Ursula",
+    "sous-nom": "La plus perfide de toutes"
+  },
+  {
+    "extension": "003",
+    "carte": "213",
+    "nom": "Palais de kuzco",
+    "sous-nom": "Residence de l empereur"
+  },
+  {
+    "extension": "003",
+    "carte": "214",
+    "nom": "Capitaine crochet",
+    "sous-nom": "Maitre epeiste"
+  },
+  {
+    "extension": "003",
+    "carte": "215",
+    "nom": "Peter pan",
+    "sous-nom": "Fleau des pirates"
+  },
+  {
+    "extension": "003",
+    "carte": "216",
+    "nom": "Rls heritage",
+    "sous-nom": "Galion solaire"
+  },
+  {
+    "extension": "003",
+    "carte": "217",
+    "nom": "Grand",
+    "sous-nom": "Mere tala - esprit de l ocean"
+  },
+  {
+    "extension": "003",
+    "carte": "218",
+    "nom": "Balthazar picsou",
+    "sous-nom": "Canard le plus riche du monde"
+  },
+  {
+    "extension": "003",
+    "carte": "219",
+    "nom": "La maison de belle",
+    "sous-nom": "Atelier de maurice"
+  },
+  {
+    "extension": "003",
+    "carte": "021",
+    "nom": "Rolly",
+    "sous-nom": "Chiot affame"
+  },
+  {
+    "extension": "003",
+    "carte": "220",
+    "nom": "Mickey mouse",
+    "sous-nom": "Trompettiste"
+  },
+  {
+    "extension": "003",
+    "carte": "221",
+    "nom": "Robin des bois",
+    "sous-nom": "Champion de sherwood"
+  },
+  {
+    "extension": "003",
+    "carte": "222",
+    "nom": "Quand soudain survint zeus",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "223",
+    "nom": "Porcinet",
+    "sous-nom": "Capitaine pirate de winnie"
+  },
+  {
+    "extension": "003",
+    "carte": "022",
+    "nom": "La fee clochette",
+    "sous-nom": "Fee genereuse"
+  },
+  {
+    "extension": "003",
+    "carte": "023",
+    "nom": "Wendy darling",
+    "sous-nom": "Talentueuse navigatrice"
+  },
+  {
+    "extension": "003",
+    "carte": "024",
+    "nom": "99 chiots",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "025",
+    "nom": "Ordres de la patronne",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "026",
+    "nom": "Gueris les blessures",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "027",
+    "nom": "Reparation de fortune",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "028",
+    "nom": "Il en faut peu pour etre heureux",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "029",
+    "nom": "Eau de pluie purifiante",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "002",
+    "nom": "Bernard",
+    "sous-nom": "Tout nouvel agent"
+  },
+  {
+    "extension": "003",
+    "carte": "030",
+    "nom": "C ur de l atlantide",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "031",
+    "nom": "Cle de turbo",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "032",
+    "nom": "Le pays imaginaire",
+    "sous-nom": "Lagune aux sirenes"
+  },
+  {
+    "extension": "003",
+    "carte": "033",
+    "nom": "La terre des lions",
+    "sous-nom": "Le rocher des lions"
+  },
+  {
+    "extension": "003",
+    "carte": "034",
+    "nom": "Chez tiana",
+    "sous-nom": "Restaurant de jazz"
+  },
+  {
+    "extension": "003",
+    "carte": "035",
+    "nom": "Alice",
+    "sous-nom": "Alchimiste theinee"
+  },
+  {
+    "extension": "003",
+    "carte": "036",
+    "nom": "Adeptes de chernabog",
+    "sous-nom": "Creatures du mal"
+  },
+  {
+    "extension": "003",
+    "carte": "037",
+    "nom": "Diablo",
+    "sous-nom": "Animal de compagnie fidele"
+  },
+  {
+    "extension": "003",
+    "carte": "038",
+    "nom": "Genie",
+    "sous-nom": "Ami encourageant"
+  },
+  {
+    "extension": "003",
+    "carte": "039",
+    "nom": "Hydros",
+    "sous-nom": "Titan de glace"
+  },
+  {
+    "extension": "003",
+    "carte": "003",
+    "nom": "Chernabog",
+    "sous-nom": "Repand le mal"
+  },
+  {
+    "extension": "003",
+    "carte": "040",
+    "nom": "Iago",
+    "sous-nom": "Gentil coco"
+  },
+  {
+    "extension": "003",
+    "carte": "041",
+    "nom": "Jafar",
+    "sous-nom": "Voleur de lampe"
+  },
+  {
+    "extension": "003",
+    "carte": "042",
+    "nom": "Jafar",
+    "sous-nom": "Illusionniste ensorcelant"
+  },
+  {
+    "extension": "003",
+    "carte": "043",
+    "nom": "Lena de sortilege",
+    "sous-nom": "Adolescente rebelle"
+  },
+  {
+    "extension": "003",
+    "carte": "044",
+    "nom": "Balais magiques",
+    "sous-nom": "Plumeau dansant"
+  },
+  {
+    "extension": "003",
+    "carte": "045",
+    "nom": "Balais magiques",
+    "sous-nom": "Nettoyeur rapide"
+  },
+  {
+    "extension": "003",
+    "carte": "046",
+    "nom": "Balais magiques",
+    "sous-nom": "Le grand nettoyeur"
+  },
+  {
+    "extension": "003",
+    "carte": "047",
+    "nom": "Tapis volant",
+    "sous-nom": "Carpette magique"
+  },
+  {
+    "extension": "003",
+    "carte": "048",
+    "nom": "Miss tick",
+    "sous-nom": "Sorciere ambitieuse"
+  },
+  {
+    "extension": "003",
+    "carte": "049",
+    "nom": "Miss tick",
+    "sous-nom": "Toucher de midas"
+  },
+  {
+    "extension": "003",
+    "carte": "050",
+    "nom": "Miss tick",
+    "sous-nom": "Sorciere en plein larcin"
+  },
+  {
+    "extension": "003",
+    "carte": "051",
+    "nom": "Malefique",
+    "sous-nom": "Maitresse du mal"
+  },
+  {
+    "extension": "003",
+    "carte": "052",
+    "nom": "Mama odie",
+    "sous-nom": "Voix de la sagesse"
+  },
+  {
+    "extension": "003",
+    "carte": "053",
+    "nom": "Pua",
+    "sous-nom": "Compagnon bedonnant"
+  },
+  {
+    "extension": "003",
+    "carte": "054",
+    "nom": "Rafiki",
+    "sous-nom": "Combattant mystique"
+  },
+  {
+    "extension": "003",
+    "carte": "055",
+    "nom": "Stratos",
+    "sous-nom": "Titan du vent"
+  },
+  {
+    "extension": "003",
+    "carte": "056",
+    "nom": "L oiseau de feu",
+    "sous-nom": "Force destructrice"
+  },
+  {
+    "extension": "003",
+    "carte": "057",
+    "nom": "La reine",
+    "sous-nom": "Rivale haineuse"
+  },
+  {
+    "extension": "003",
+    "carte": "058",
+    "nom": "Le gardien du tresor",
+    "sous-nom": "Protecteur de la caverne"
+  },
+  {
+    "extension": "003",
+    "carte": "059",
+    "nom": "Ursula",
+    "sous-nom": "Sorciere des mers"
+  },
+  {
+    "extension": "003",
+    "carte": "005",
+    "nom": "Amadou gentil",
+    "sous-nom": "Le docteur"
+  },
+  {
+    "extension": "003",
+    "carte": "060",
+    "nom": "Offrir un don",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "061",
+    "nom": "Il m appelle",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "062",
+    "nom": "Effort desespere",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "063",
+    "nom": "Je complete ma collection",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "064",
+    "nom": "La lampe",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "065",
+    "nom": "Le chapeau de sorcier",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "066",
+    "nom": "Montagne interdite",
+    "sous-nom": "Chateau de malefique"
+  },
+  {
+    "extension": "003",
+    "carte": "067",
+    "nom": "Chateau de la reine",
+    "sous-nom": "Salle du miroir"
+  },
+  {
+    "extension": "003",
+    "carte": "068",
+    "nom": "La tour du sorcier",
+    "sous-nom": "Atelier merveilleux"
+  },
+  {
+    "extension": "003",
+    "carte": "069",
+    "nom": "Le frise",
+    "sous-nom": "Enfant perdu tres costaud"
+  },
+  {
+    "extension": "003",
+    "carte": "006",
+    "nom": "Kida",
+    "sous-nom": "Atlante"
+  },
+  {
+    "extension": "003",
+    "carte": "070",
+    "nom": "Ondins ensorceles",
+    "sous-nom": "Uvre d ursula"
+  },
+  {
+    "extension": "003",
+    "carte": "071",
+    "nom": "Don carnage",
+    "sous-nom": "Prince des pirates"
+  },
+  {
+    "extension": "003",
+    "carte": "072",
+    "nom": "Flotsam",
+    "sous-nom": "Boule puante"
+  },
+  {
+    "extension": "003",
+    "carte": "073",
+    "nom": "Frere tuck",
+    "sous-nom": "Pretre de nottingham"
+  },
+  {
+    "extension": "003",
+    "carte": "074",
+    "nom": "Helga sinclair",
+    "sous-nom": "Femme fatale"
+  },
+  {
+    "extension": "003",
+    "carte": "075",
+    "nom": "Helga sinclair",
+    "sous-nom": "Partenaire vengeresse"
+  },
+  {
+    "extension": "003",
+    "carte": "076",
+    "nom": "Jetsam",
+    "sous-nom": "Boule puante"
+  },
+  {
+    "extension": "003",
+    "carte": "077",
+    "nom": "Kit",
+    "sous-nom": "Dur a cuire"
+  },
+  {
+    "extension": "003",
+    "carte": "078",
+    "nom": "Lyle tiberius rourke",
+    "sous-nom": "Mercenaire fourbe"
+  },
+  {
+    "extension": "003",
+    "carte": "079",
+    "nom": "Milo thatch",
+    "sous-nom": "Brillant cartographe"
+  },
+  {
+    "extension": "003",
+    "carte": "007",
+    "nom": "Kida",
+    "sous-nom": "Protectrice de l atlantide"
+  },
+  {
+    "extension": "003",
+    "carte": "080",
+    "nom": "Milo thatch",
+    "sous-nom": "Roi de l atlantide"
+  },
+  {
+    "extension": "003",
+    "carte": "081",
+    "nom": "Morph",
+    "sous-nom": "Gluant de l espace"
+  },
+  {
+    "extension": "003",
+    "carte": "082",
+    "nom": "Peter pan",
+    "sous-nom": "Chef des enfants perdus"
+  },
+  {
+    "extension": "003",
+    "carte": "083",
+    "nom": "Prince jean",
+    "sous-nom": "Roi de mauvais aloi"
+  },
+  {
+    "extension": "003",
+    "carte": "084",
+    "nom": "Robin des bois",
+    "sous-nom": "Reveur eveille"
+  },
+  {
+    "extension": "003",
+    "carte": "085",
+    "nom": "Shenzi",
+    "sous-nom": "Cheffe de meute des hyenes"
+  },
+  {
+    "extension": "003",
+    "carte": "086",
+    "nom": "Triste sire",
+    "sous-nom": "Aspic envenimant"
+  },
+  {
+    "extension": "003",
+    "carte": "087",
+    "nom": "Bobby",
+    "sous-nom": "Lapin energique"
+  },
+  {
+    "extension": "003",
+    "carte": "088",
+    "nom": "Monsieur starkey",
+    "sous-nom": "Pirate sournois"
+  },
+  {
+    "extension": "003",
+    "carte": "089",
+    "nom": "Stitch",
+    "sous-nom": "Agent sous couverture"
+  },
+  {
+    "extension": "003",
+    "carte": "008",
+    "nom": "Lucky",
+    "sous-nom": "Le 15e chiot"
+  },
+  {
+    "extension": "003",
+    "carte": "090",
+    "nom": "Ursula",
+    "sous-nom": "Embobineuse"
+  },
+  {
+    "extension": "003",
+    "carte": "091",
+    "nom": "Ursula",
+    "sous-nom": "La plus perfide de toutes"
+  },
+  {
+    "extension": "003",
+    "carte": "092",
+    "nom": "Turbo",
+    "sous-nom": "Mecanicien"
+  },
+  {
+    "extension": "003",
+    "carte": "093",
+    "nom": "Zazu",
+    "sous-nom": "Intendant de la terre des lions"
+  },
+  {
+    "extension": "003",
+    "carte": "094",
+    "nom": "A touche mon c uuuuur",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "095",
+    "nom": "Je prends le chemin",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "096",
+    "nom": "Crois",
+    "sous-nom": "Moi j ai vu pire"
+  },
+  {
+    "extension": "003",
+    "carte": "097",
+    "nom": "Aero",
+    "sous-nom": "Surf"
+  },
+  {
+    "extension": "003",
+    "carte": "098",
+    "nom": "Arc de robin",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "099",
+    "nom": "Fiole de lumiere d etoile",
+    "sous-nom": ""
+  },
+  {
+    "extension": "003",
+    "carte": "009",
+    "nom": "Minnie",
+    "sous-nom": "Artiste musicale"
+  },
+  {
+    "extension": "004",
+    "carte": "100",
+    "nom": "Plaque de vision",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "101",
+    "nom": "La crique cachee",
+    "sous-nom": "Havre de paix"
+  },
+  {
+    "extension": "004",
+    "carte": "102",
+    "nom": "Jardin d ursula",
+    "sous-nom": "Rempli d ames en perdition"
+  },
+  {
+    "extension": "004",
+    "carte": "103",
+    "nom": "La bete",
+    "sous-nom": "Blessee"
+  },
+  {
+    "extension": "004",
+    "carte": "104",
+    "nom": "Benja",
+    "sous-nom": "Unificateur audacieux"
+  },
+  {
+    "extension": "004",
+    "carte": "105",
+    "nom": "Fa zhou",
+    "sous-nom": "Pere de mulan"
+  },
+  {
+    "extension": "004",
+    "carte": "106",
+    "nom": "Flynn rider",
+    "sous-nom": "Faux ami"
+  },
+  {
+    "extension": "004",
+    "carte": "107",
+    "nom": "Dingo",
+    "sous-nom": "Super dingo"
+  },
+  {
+    "extension": "004",
+    "carte": "108",
+    "nom": "Hercule",
+    "sous-nom": "Gamin maladroit"
+  },
+  {
+    "extension": "004",
+    "carte": "109",
+    "nom": "Hercule",
+    "sous-nom": "Demi-dieu intrepide"
+  },
+  {
+    "extension": "004",
+    "carte": "110",
+    "nom": "Khan",
+    "sous-nom": "Destrier adore"
+  },
+  {
+    "extension": "004",
+    "carte": "111",
+    "nom": "Li shang",
+    "sous-nom": "Fils de general"
+  },
+  {
+    "extension": "004",
+    "carte": "112",
+    "nom": "Li shang",
+    "sous-nom": "General valeureux"
+  },
+  {
+    "extension": "004",
+    "carte": "113",
+    "nom": "Lumiere",
+    "sous-nom": "Ardent ami"
+  },
+  {
+    "extension": "004",
+    "carte": "115",
+    "nom": "Mulan",
+    "sous-nom": "Ennemie de l envoutement"
+  },
+  {
+    "extension": "004",
+    "carte": "116",
+    "nom": "Mulan",
+    "sous-nom": "Soldate blessee"
+  },
+  {
+    "extension": "004",
+    "carte": "117",
+    "nom": "Namaari",
+    "sous-nom": "Heritiere de croc du dragon"
+  },
+  {
+    "extension": "004",
+    "carte": "118",
+    "nom": "Nessus",
+    "sous-nom": "Gardien de la riviere"
+  },
+  {
+    "extension": "004",
+    "carte": "119",
+    "nom": "Bebe noi",
+    "sous-nom": "Bebe acrobate"
+  },
+  {
+    "extension": "004",
+    "carte": "011",
+    "nom": "La harpe magique",
+    "sous-nom": "Enchanteresse de la vallee"
+  },
+  {
+    "extension": "004",
+    "carte": "120",
+    "nom": "Pegase",
+    "sous-nom": "Destrier volant"
+  },
+  {
+    "extension": "004",
+    "carte": "121",
+    "nom": "Raya",
+    "sous-nom": "Protectrice acharnee"
+  },
+  {
+    "extension": "004",
+    "carte": "122",
+    "nom": "Raya",
+    "sous-nom": "Gardienne de la pierre de dragon"
+  },
+  {
+    "extension": "004",
+    "carte": "123",
+    "nom": "Sisu",
+    "sous-nom": "Visiteuse audacieuse"
+  },
+  {
+    "extension": "004",
+    "carte": "124",
+    "nom": "Sisu",
+    "sous-nom": "Combattante enhardie"
+  },
+  {
+    "extension": "004",
+    "carte": "125",
+    "nom": "Sisu",
+    "sous-nom": "S ur responsable"
+  },
+  {
+    "extension": "004",
+    "carte": "126",
+    "nom": "Tong",
+    "sous-nom": "Survivant"
+  },
+  {
+    "extension": "004",
+    "carte": "127",
+    "nom": "Tuk tuk",
+    "sous-nom": "Partenaire percutant"
+  },
+  {
+    "extension": "004",
+    "carte": "128",
+    "nom": "La vie d un pirate",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "129",
+    "nom": "Un roi inconteste",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "012",
+    "nom": "Dingo",
+    "sous-nom": "Mousquetaire epeiste"
+  },
+  {
+    "extension": "004",
+    "carte": "130",
+    "nom": "Bagarre",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "131",
+    "nom": "Decret imperial",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "132",
+    "nom": "Medaillons lestes",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "133",
+    "nom": "La planche",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "134",
+    "nom": "Sphere de vitalite",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "135",
+    "nom": "Le canard boiteux",
+    "sous-nom": "Taverne malfamee"
+  },
+  {
+    "extension": "004",
+    "carte": "136",
+    "nom": "Terrains d entrainement",
+    "sous-nom": "Mat insurmontable"
+  },
+  {
+    "extension": "004",
+    "carte": "137",
+    "nom": "Anna",
+    "sous-nom": "Bravant la tempete"
+  },
+  {
+    "extension": "004",
+    "carte": "138",
+    "nom": "Anna",
+    "sous-nom": "C ur sincere"
+  },
+  {
+    "extension": "004",
+    "carte": "139",
+    "nom": "Ariel",
+    "sous-nom": "Collectionneuse de tresors"
+  },
+  {
+    "extension": "004",
+    "carte": "013",
+    "nom": "Julieta madrigal",
+    "sous-nom": "Cuisiniere hors pair"
+  },
+  {
+    "extension": "004",
+    "carte": "140",
+    "nom": "Aurore",
+    "sous-nom": "Gardienne de lore"
+  },
+  {
+    "extension": "004",
+    "carte": "141",
+    "nom": "Aurore",
+    "sous-nom": "Princesse sereine"
+  },
+  {
+    "extension": "004",
+    "carte": "142",
+    "nom": "Dang hu",
+    "sous-nom": "Cheffe de griffes du dragon"
+  },
+  {
+    "extension": "004",
+    "carte": "143",
+    "nom": "Fa li",
+    "sous-nom": "Mere de mulan"
+  },
+  {
+    "extension": "004",
+    "carte": "144",
+    "nom": "Polochon",
+    "sous-nom": "Compagnon de la collectionneuse"
+  },
+  {
+    "extension": "004",
+    "carte": "145",
+    "nom": "Hades",
+    "sous-nom": "Conspirateur meticuleux"
+  },
+  {
+    "extension": "004",
+    "carte": "146",
+    "nom": "Hans",
+    "sous-nom": "Noble crapule"
+  },
+  {
+    "extension": "004",
+    "carte": "147",
+    "nom": "Iduna",
+    "sous-nom": "Mere bienveillante"
+  },
+  {
+    "extension": "004",
+    "carte": "148",
+    "nom": "John silver",
+    "sous-nom": "Terreur du royaume"
+  },
+  {
+    "extension": "004",
+    "carte": "149",
+    "nom": "Olaf",
+    "sous-nom": "Fan de carottes"
+  },
+  {
+    "extension": "004",
+    "carte": "014",
+    "nom": "Max",
+    "sous-nom": "Chien de berger fidele"
+  },
+  {
+    "extension": "004",
+    "carte": "150",
+    "nom": "Olaf",
+    "sous-nom": "Compagnon confiant"
+  },
+  {
+    "extension": "004",
+    "carte": "151",
+    "nom": "Pascal",
+    "sous-nom": "Animal de compagnie curieux"
+  },
+  {
+    "extension": "004",
+    "carte": "152",
+    "nom": "Prince philippe",
+    "sous-nom": "Galant defenseur"
+  },
+  {
+    "extension": "004",
+    "carte": "153",
+    "nom": "Raiponce",
+    "sous-nom": "Artiste sensible"
+  },
+  {
+    "extension": "004",
+    "carte": "154",
+    "nom": "Eureka",
+    "sous-nom": "Expert en humains"
+  },
+  {
+    "extension": "004",
+    "carte": "155",
+    "nom": "Sisu",
+    "sous-nom": "Amie pleine de sagesse"
+  },
+  {
+    "extension": "004",
+    "carte": "156",
+    "nom": "La reine",
+    "sous-nom": "Devineresse"
+  },
+  {
+    "extension": "004",
+    "carte": "157",
+    "nom": "Chef transforme",
+    "sous-nom": "Poele du chateau"
+  },
+  {
+    "extension": "004",
+    "carte": "159",
+    "nom": "Triton",
+    "sous-nom": "Roi clairvoyant"
+  },
+  {
+    "extension": "004",
+    "carte": "015",
+    "nom": "Mickey mouse",
+    "sous-nom": "Chef de la fanfare"
+  },
+  {
+    "extension": "004",
+    "carte": "160",
+    "nom": "Triton",
+    "sous-nom": "Jeune prince"
+  },
+  {
+    "extension": "004",
+    "carte": "161",
+    "nom": "Tuk tuk",
+    "sous-nom": "Partenaire curieux"
+  },
+  {
+    "extension": "004",
+    "carte": "162",
+    "nom": "Creuse encore et encore",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "163",
+    "nom": "Glaner",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "164",
+    "nom": "J en ai reve",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "165",
+    "nom": "Tous ces secrets",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "166",
+    "nom": "Champ de glace",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "167",
+    "nom": "Grand dragon de pierre",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "168",
+    "nom": "Bloc de glace",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "169",
+    "nom": "La grotte d ariel",
+    "sous-nom": "Un endroit secret"
+  },
+  {
+    "extension": "004",
+    "carte": "016",
+    "nom": "Mickey mouse",
+    "sous-nom": "Capitaine mousquetaire"
+  },
+  {
+    "extension": "004",
+    "carte": "170",
+    "nom": "Camp d hiver",
+    "sous-nom": "Tente medicale"
+  },
+  {
+    "extension": "004",
+    "carte": "171",
+    "nom": "Aladdin",
+    "sous-nom": "Courageux sauveur"
+  },
+  {
+    "extension": "004",
+    "carte": "172",
+    "nom": "Aladdin",
+    "sous-nom": "Sabreur resolu"
+  },
+  {
+    "extension": "004",
+    "carte": "173",
+    "nom": "Arges",
+    "sous-nom": "Le cyclope"
+  },
+  {
+    "extension": "004",
+    "carte": "174",
+    "nom": "Ariel",
+    "sous-nom": "Sirene determinee"
+  },
+  {
+    "extension": "004",
+    "carte": "175",
+    "nom": "Ariel",
+    "sous-nom": "Guerriere sonique"
+  },
+  {
+    "extension": "004",
+    "carte": "176",
+    "nom": "La bete",
+    "sous-nom": "Dure a cuire"
+  },
+  {
+    "extension": "004",
+    "carte": "177",
+    "nom": "Chi fu",
+    "sous-nom": "Conseiller imperial"
+  },
+  {
+    "extension": "004",
+    "carte": "178",
+    "nom": "Chien",
+    "sous-nom": "Po - soldat imperial"
+  },
+  {
+    "extension": "004",
+    "carte": "179",
+    "nom": "Donald",
+    "sous-nom": "Boucanier"
+  },
+  {
+    "extension": "004",
+    "carte": "017",
+    "nom": "Minnie",
+    "sous-nom": "Championne mousquetaire"
+  },
+  {
+    "extension": "004",
+    "carte": "180",
+    "nom": "Hercule",
+    "sous-nom": "Heros bien-aime"
+  },
+  {
+    "extension": "004",
+    "carte": "181",
+    "nom": "Le fou",
+    "sous-nom": "Laquais opportuniste"
+  },
+  {
+    "extension": "004",
+    "carte": "182",
+    "nom": "Li shang",
+    "sous-nom": "Capitaine imperial"
+  },
+  {
+    "extension": "004",
+    "carte": "183",
+    "nom": "Ling",
+    "sous-nom": "Soldat imperial"
+  },
+  {
+    "extension": "004",
+    "carte": "184",
+    "nom": "Luisa madrigal",
+    "sous-nom": "Roc de la famille"
+  },
+  {
+    "extension": "004",
+    "carte": "185",
+    "nom": "Balais magiques",
+    "sous-nom": "Nettoyeur aerien"
+  },
+  {
+    "extension": "004",
+    "carte": "187",
+    "nom": "Mickey mouse",
+    "sous-nom": "Sorcier espiegle"
+  },
+  {
+    "extension": "004",
+    "carte": "188",
+    "nom": "Mickey mouse",
+    "sous-nom": "Porte-etendard"
+  },
+  {
+    "extension": "004",
+    "carte": "189",
+    "nom": "Mulan",
+    "sous-nom": "Combattant en armure"
+  },
+  {
+    "extension": "004",
+    "carte": "018",
+    "nom": "Mirabel madrigal",
+    "sous-nom": "Don de la famille"
+  },
+  {
+    "extension": "004",
+    "carte": "190",
+    "nom": "Philoctete",
+    "sous-nom": "Instructeur direct"
+  },
+  {
+    "extension": "004",
+    "carte": "191",
+    "nom": "Porcinet",
+    "sous-nom": "Epeiste costaud"
+  },
+  {
+    "extension": "004",
+    "carte": "192",
+    "nom": "Rajah",
+    "sous-nom": "Protecteur royal"
+  },
+  {
+    "extension": "004",
+    "carte": "193",
+    "nom": "Raya",
+    "sous-nom": "Force inarretable"
+  },
+  {
+    "extension": "004",
+    "carte": "194",
+    "nom": "Yao",
+    "sous-nom": "Soldat imperial"
+  },
+  {
+    "extension": "004",
+    "carte": "195",
+    "nom": "Avalanche",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "196",
+    "nom": "Ils cassent en deux comme je veux",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "197",
+    "nom": "Il me reste un espoir",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "198",
+    "nom": "Tous avec moi",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "199",
+    "nom": "Decret de triton",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "019",
+    "nom": "Mirabel madrigal",
+    "sous-nom": "Decouvreuse de prophetie"
+  },
+  {
+    "extension": "004",
+    "carte": "001",
+    "nom": "Agustin madrigal",
+    "sous-nom": "Pere maladroit"
+  },
+  {
+    "extension": "004",
+    "carte": "200",
+    "nom": "Sphere d endurance",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "201",
+    "nom": "Arc imperial",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "202",
+    "nom": "Canon du rls heritage",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "203",
+    "nom": "La muraille",
+    "sous-nom": "Fortification frontaliere"
+  },
+  {
+    "extension": "004",
+    "carte": "204",
+    "nom": "Thebes",
+    "sous-nom": "Le joyau de la grece"
+  },
+  {
+    "extension": "004",
+    "carte": "205",
+    "nom": "Cendrillon",
+    "sous-nom": "Tisseuse de melodies"
+  },
+  {
+    "extension": "004",
+    "carte": "206",
+    "nom": "Minnie",
+    "sous-nom": "Championne mousquetaire"
+  },
+  {
+    "extension": "004",
+    "carte": "207",
+    "nom": "On est une famille",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "208",
+    "nom": "Ursula",
+    "sous-nom": "Reine-sorciere des mers"
+  },
+  {
+    "extension": "004",
+    "carte": "209",
+    "nom": "Yen sid",
+    "sous-nom": "Puissant sorcier"
+  },
+  {
+    "extension": "004",
+    "carte": "020",
+    "nom": "Pluto",
+    "sous-nom": "Chien de sauvetage"
+  },
+  {
+    "extension": "004",
+    "carte": "210",
+    "nom": "La deuxieme etoile sur la droite",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "211",
+    "nom": "Diablo",
+    "sous-nom": "Messager devoue"
+  },
+  {
+    "extension": "004",
+    "carte": "212",
+    "nom": "Jasmine",
+    "sous-nom": "Combattante du desert"
+  },
+  {
+    "extension": "004",
+    "carte": "213",
+    "nom": "Ne parlons pas de bruno",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "214",
+    "nom": "Dingo",
+    "sous-nom": "Super dingo"
+  },
+  {
+    "extension": "004",
+    "carte": "215",
+    "nom": "Sisu",
+    "sous-nom": "S ur responsable"
+  },
+  {
+    "extension": "004",
+    "carte": "216",
+    "nom": "Le canard boiteux",
+    "sous-nom": "Taverne malfamee"
+  },
+  {
+    "extension": "004",
+    "carte": "217",
+    "nom": "Anna",
+    "sous-nom": "C ur sincere"
+  },
+  {
+    "extension": "004",
+    "carte": "218",
+    "nom": "La reine",
+    "sous-nom": "Devineresse"
+  },
+  {
+    "extension": "004",
+    "carte": "219",
+    "nom": "La grotte d ariel",
+    "sous-nom": "Un endroit secret"
+  },
+  {
+    "extension": "004",
+    "carte": "021",
+    "nom": "Prince eric",
+    "sous-nom": "Prince navigateur"
+  },
+  {
+    "extension": "004",
+    "carte": "220",
+    "nom": "Ariel",
+    "sous-nom": "Guerriere sonique"
+  },
+  {
+    "extension": "004",
+    "carte": "221",
+    "nom": "Porcinet",
+    "sous-nom": "Epeiste costaud"
+  },
+  {
+    "extension": "004",
+    "carte": "222",
+    "nom": "La muraille",
+    "sous-nom": "Fortification frontaliere"
+  },
+  {
+    "extension": "004",
+    "carte": "223",
+    "nom": "Yen sid",
+    "sous-nom": "Puissant sorcier"
+  },
+  {
+    "extension": "004",
+    "carte": "224",
+    "nom": "Mulan",
+    "sous-nom": "Archere d elite"
+  },
+  {
+    "extension": "004",
+    "carte": "225",
+    "nom": "Mickey mouse",
+    "sous-nom": "Sorcier espiegle"
+  },
+  {
+    "extension": "004",
+    "carte": "022",
+    "nom": "Prince eric",
+    "sous-nom": "Fiance d ursula"
+  },
+  {
+    "extension": "004",
+    "carte": "023",
+    "nom": "Stitch",
+    "sous-nom": "Danseur extraterrestre"
+  },
+  {
+    "extension": "004",
+    "carte": "024",
+    "nom": "Ursula",
+    "sous-nom": "Fiancee d eric"
+  },
+  {
+    "extension": "004",
+    "carte": "025",
+    "nom": "Ursula",
+    "sous-nom": "Vanessa"
+  },
+  {
+    "extension": "004",
+    "carte": "026",
+    "nom": "Retour de bruno",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "027",
+    "nom": "Premiers secours",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "028",
+    "nom": "On est une famille",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "029",
+    "nom": "J ai perdu le nord",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "002",
+    "nom": "Alma madrigal",
+    "sous-nom": "Matriarche de la famille"
+  },
+  {
+    "extension": "004",
+    "carte": "030",
+    "nom": "Signe le contrat",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "031",
+    "nom": "La chandelle du miracle",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "032",
+    "nom": "Platine disque",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "033",
+    "nom": "Atlantica",
+    "sous-nom": "Salle de concert"
+  },
+  {
+    "extension": "004",
+    "carte": "034",
+    "nom": "Les enfers",
+    "sous-nom": "Le styx"
+  },
+  {
+    "extension": "004",
+    "carte": "035",
+    "nom": "Antonio madrigal",
+    "sous-nom": "Expert animalier"
+  },
+  {
+    "extension": "004",
+    "carte": "036",
+    "nom": "Belle",
+    "sous-nom": "Mystique accomplie"
+  },
+  {
+    "extension": "004",
+    "carte": "037",
+    "nom": "Belle",
+    "sous-nom": "Mystique novice"
+  },
+  {
+    "extension": "004",
+    "carte": "038",
+    "nom": "Bruno madrigal",
+    "sous-nom": "Sorti de la penombre"
+  },
+  {
+    "extension": "004",
+    "carte": "039",
+    "nom": "Bruno madrigal",
+    "sous-nom": "Oncle inapercu"
+  },
+  {
+    "extension": "004",
+    "carte": "003",
+    "nom": "Ariel",
+    "sous-nom": "Sirene chantante"
+  },
+  {
+    "extension": "004",
+    "carte": "040",
+    "nom": "Camilo madrigal",
+    "sous-nom": "Farceur"
+  },
+  {
+    "extension": "004",
+    "carte": "041",
+    "nom": "Dolores madrigal",
+    "sous-nom": "Oreille fine"
+  },
+  {
+    "extension": "004",
+    "carte": "042",
+    "nom": "Elsa",
+    "sous-nom": "Chasseuse d orage"
+  },
+  {
+    "extension": "004",
+    "carte": "043",
+    "nom": "Flotsam",
+    "sous-nom": "Bebe d ursula"
+  },
+  {
+    "extension": "004",
+    "carte": "044",
+    "nom": "Flotsam jetsam",
+    "sous-nom": "Anguilles piegeuses"
+  },
+  {
+    "extension": "004",
+    "carte": "045",
+    "nom": "Isabela madrigal",
+    "sous-nom": "Enfant cherie"
+  },
+  {
+    "extension": "004",
+    "carte": "046",
+    "nom": "Jetsam",
+    "sous-nom": "Bebe d ursula"
+  },
+  {
+    "extension": "004",
+    "carte": "047",
+    "nom": "Luisa madrigal",
+    "sous-nom": "Magiquement forte"
+  },
+  {
+    "extension": "004",
+    "carte": "048",
+    "nom": "Balais magiques",
+    "sous-nom": "Gardien de l illuminarium"
+  },
+  {
+    "extension": "004",
+    "carte": "049",
+    "nom": "Balais magiques",
+    "sous-nom": "Balayeur plein de vie"
+  },
+  {
+    "extension": "004",
+    "carte": "004",
+    "nom": "Cendrillon",
+    "sous-nom": "Tisseuse de melodies"
+  },
+  {
+    "extension": "004",
+    "carte": "050",
+    "nom": "Domestique magique",
+    "sous-nom": "Plumette"
+  },
+  {
+    "extension": "004",
+    "carte": "051",
+    "nom": "Guimauve",
+    "sous-nom": "Terrifiant bonhomme de neige"
+  },
+  {
+    "extension": "004",
+    "carte": "052",
+    "nom": "Madame samovar",
+    "sous-nom": "Theiere enchantee"
+  },
+  {
+    "extension": "004",
+    "carte": "053",
+    "nom": "Pepa madrigal",
+    "sous-nom": "Fait la pluie et le beau temps"
+  },
+  {
+    "extension": "004",
+    "carte": "054",
+    "nom": "Peter pan",
+    "sous-nom": "Trouveur d ombre"
+  },
+  {
+    "extension": "004",
+    "carte": "055",
+    "nom": "Pico",
+    "sous-nom": "Toucan serviable"
+  },
+  {
+    "extension": "004",
+    "carte": "056",
+    "nom": "Tic",
+    "sous-nom": "Tac - implacable poursuivant"
+  },
+  {
+    "extension": "004",
+    "carte": "057",
+    "nom": "Ursula",
+    "sous-nom": "Sorciere des mers enragee"
+  },
+  {
+    "extension": "004",
+    "carte": "058",
+    "nom": "Ursula",
+    "sous-nom": "Reine-sorciere des mers"
+  },
+  {
+    "extension": "004",
+    "carte": "059",
+    "nom": "Yen sid",
+    "sous-nom": "Puissant sorcier"
+  },
+  {
+    "extension": "004",
+    "carte": "005",
+    "nom": "Big ben",
+    "sous-nom": "Majordome"
+  },
+  {
+    "extension": "004",
+    "carte": "060",
+    "nom": "Pauvres ames en perdition",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "062",
+    "nom": "Passer a l action",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "063",
+    "nom": "Plan d ursula",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "064",
+    "nom": "Rose mystique",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "065",
+    "nom": "Rose",
+    "sous-nom": "Lanterne"
+  },
+  {
+    "extension": "004",
+    "carte": "066",
+    "nom": "Trident de triton",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "067",
+    "nom": "Casa madrigal",
+    "sous-nom": "Casita"
+  },
+  {
+    "extension": "004",
+    "carte": "068",
+    "nom": "Le repaire d ursula",
+    "sous-nom": "L il du cyclone"
+  },
+  {
+    "extension": "004",
+    "carte": "069",
+    "nom": "Cri",
+    "sous-nom": "Kee - criquet porte-bonheur"
+  },
+  {
+    "extension": "004",
+    "carte": "006",
+    "nom": "Daisy",
+    "sous-nom": "Charmante damoiselle"
+  },
+  {
+    "extension": "004",
+    "carte": "070",
+    "nom": "Diablo",
+    "sous-nom": "Messager devoue"
+  },
+  {
+    "extension": "004",
+    "carte": "071",
+    "nom": "Diablo",
+    "sous-nom": "Espion de malefique"
+  },
+  {
+    "extension": "004",
+    "carte": "072",
+    "nom": "Gunther",
+    "sous-nom": "Decorateur et styliste"
+  },
+  {
+    "extension": "004",
+    "carte": "073",
+    "nom": "Gus",
+    "sous-nom": "Champion du fromage"
+  },
+  {
+    "extension": "004",
+    "carte": "074",
+    "nom": "Hades",
+    "sous-nom": "Double jeu"
+  },
+  {
+    "extension": "004",
+    "carte": "075",
+    "nom": "Heihei",
+    "sous-nom": "Coq empote"
+  },
+  {
+    "extension": "004",
+    "carte": "076",
+    "nom": "Hera",
+    "sous-nom": "Reine des dieux"
+  },
+  {
+    "extension": "004",
+    "carte": "077",
+    "nom": "Jac",
+    "sous-nom": "Connaisseur en escalade"
+  },
+  {
+    "extension": "004",
+    "carte": "078",
+    "nom": "Jasmine",
+    "sous-nom": "Combattante du desert"
+  },
+  {
+    "extension": "004",
+    "carte": "079",
+    "nom": "Megara",
+    "sous-nom": "Cynique captivante"
+  },
+  {
+    "extension": "004",
+    "carte": "007",
+    "nom": "Daisy",
+    "sous-nom": "Mousquetaire espionne"
+  },
+  {
+    "extension": "004",
+    "carte": "080",
+    "nom": "Megara",
+    "sous-nom": "Liberee"
+  },
+  {
+    "extension": "004",
+    "carte": "081",
+    "nom": "Peine",
+    "sous-nom": "Sous-fifre immortel"
+  },
+  {
+    "extension": "004",
+    "carte": "082",
+    "nom": "Panique",
+    "sous-nom": "Sous-fifre immortel"
+  },
+  {
+    "extension": "004",
+    "carte": "083",
+    "nom": "Pegase",
+    "sous-nom": "Fait la course aux nuages"
+  },
+  {
+    "extension": "004",
+    "carte": "084",
+    "nom": "Pegase",
+    "sous-nom": "Present pour hercule"
+  },
+  {
+    "extension": "004",
+    "carte": "085",
+    "nom": "Pat",
+    "sous-nom": "Tricheur-ne"
+  },
+  {
+    "extension": "004",
+    "carte": "086",
+    "nom": "Pat",
+    "sous-nom": "Sale type"
+  },
+  {
+    "extension": "004",
+    "carte": "087",
+    "nom": "Prince philippe",
+    "sous-nom": "Pourfendeur d ennemis"
+  },
+  {
+    "extension": "004",
+    "carte": "088",
+    "nom": "Prince philippe",
+    "sous-nom": "Gardien de la foret"
+  },
+  {
+    "extension": "004",
+    "carte": "089",
+    "nom": "Les moires",
+    "sous-nom": "Il unique"
+  },
+  {
+    "extension": "004",
+    "carte": "008",
+    "nom": "Donald",
+    "sous-nom": "Mousquetaire soldat"
+  },
+  {
+    "extension": "004",
+    "carte": "090",
+    "nom": "Les muses",
+    "sous-nom": "Proclamatrices de heros"
+  },
+  {
+    "extension": "004",
+    "carte": "091",
+    "nom": "Tor",
+    "sous-nom": "Fleuriste"
+  },
+  {
+    "extension": "004",
+    "carte": "092",
+    "nom": "Zeus",
+    "sous-nom": "M crache-la-foudre"
+  },
+  {
+    "extension": "004",
+    "carte": "093",
+    "nom": "Esquive",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "094",
+    "nom": "Concocter la potion",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "095",
+    "nom": "Sous l ocean",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "096",
+    "nom": "Ruse d ursula",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "097",
+    "nom": "Ne parlons pas de bruno",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "098",
+    "nom": "Invocateur d encre cache",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "099",
+    "nom": "Contrat signe",
+    "sous-nom": ""
+  },
+  {
+    "extension": "004",
+    "carte": "009",
+    "nom": "Felix madrigal",
+    "sous-nom": "Pere de famille enjoue"
+  },
+  {
+    "extension": "005",
+    "carte": "100",
+    "nom": "Chromicone d emeraude",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "101",
+    "nom": "Foret de sherwood",
+    "sous-nom": "Cachette des hors-la-loi"
+  },
+  {
+    "extension": "005",
+    "carte": "102",
+    "nom": "Foret tropicale",
+    "sous-nom": "Repaire des jaguars"
+  },
+  {
+    "extension": "005",
+    "carte": "103",
+    "nom": "Taffyta creme brulee",
+    "sous-nom": "Rivale implacable"
+  },
+  {
+    "extension": "005",
+    "carte": "104",
+    "nom": "Ralph la casse",
+    "sous-nom": "Demolisseur"
+  },
+  {
+    "extension": "005",
+    "carte": "105",
+    "nom": "Maximus",
+    "sous-nom": "Champion de l equipe"
+  },
+  {
+    "extension": "005",
+    "carte": "106",
+    "nom": "Turbo le pilote",
+    "sous-nom": "Hack royal"
+  },
+  {
+    "extension": "005",
+    "carte": "107",
+    "nom": "Donald",
+    "sous-nom": "Lanceur de tartes"
+  },
+  {
+    "extension": "005",
+    "carte": "108",
+    "nom": "Jean",
+    "sous-nom": "Hubert lingot - fonceur chocolate"
+  },
+  {
+    "extension": "005",
+    "carte": "109",
+    "nom": "Scar",
+    "sous-nom": "Traitre"
+  },
+  {
+    "extension": "005",
+    "carte": "010",
+    "nom": "Felix fixe junior",
+    "sous-nom": "Constructeur fiable"
+  },
+  {
+    "extension": "005",
+    "carte": "110",
+    "nom": "Ninou gatine",
+    "sous-nom": "Competitrice glacee"
+  },
+  {
+    "extension": "005",
+    "carte": "111",
+    "nom": "Daisy",
+    "sous-nom": "Bagarreuse immaculee"
+  },
+  {
+    "extension": "005",
+    "carte": "112",
+    "nom": "Mickey mouse",
+    "sous-nom": "Danseur enthousiaste"
+  },
+  {
+    "extension": "005",
+    "carte": "113",
+    "nom": "Ratigan",
+    "sous-nom": "Rat enrage"
+  },
+  {
+    "extension": "005",
+    "carte": "114",
+    "nom": "Taffyta creme brulee",
+    "sous-nom": "La preferee du public"
+  },
+  {
+    "extension": "005",
+    "carte": "115",
+    "nom": "Denahi",
+    "sous-nom": "Frere vengeur"
+  },
+  {
+    "extension": "005",
+    "carte": "116",
+    "nom": "Pat",
+    "sous-nom": "Rival du bateau a vapeur"
+  },
+  {
+    "extension": "005",
+    "carte": "117",
+    "nom": "Taffyta creme brulee",
+    "sous-nom": "Coureuse acide"
+  },
+  {
+    "extension": "005",
+    "carte": "118",
+    "nom": "Robin des bois",
+    "sous-nom": "Tireur d elite"
+  },
+  {
+    "extension": "005",
+    "carte": "119",
+    "nom": "Gaston",
+    "sous-nom": "Du chic et de la prestance"
+  },
+  {
+    "extension": "005",
+    "carte": "011",
+    "nom": "Gazelle",
+    "sous-nom": "Pop star"
+  },
+  {
+    "extension": "005",
+    "carte": "120",
+    "nom": "Pat",
+    "sous-nom": "Engloutisseur de patisseries"
+  },
+  {
+    "extension": "005",
+    "carte": "121",
+    "nom": "Arthur",
+    "sous-nom": "Moineau novice"
+  },
+  {
+    "extension": "005",
+    "carte": "122",
+    "nom": "Donald",
+    "sous-nom": "Rendez-vous de daisy"
+  },
+  {
+    "extension": "005",
+    "carte": "123",
+    "nom": "Ratigan",
+    "sous-nom": "Trouble-fete"
+  },
+  {
+    "extension": "005",
+    "carte": "124",
+    "nom": "Vanellope von schweetz",
+    "sous-nom": "Coureuse aleatoire"
+  },
+  {
+    "extension": "005",
+    "carte": "125",
+    "nom": "Simba",
+    "sous-nom": "Successeur aventureux"
+  },
+  {
+    "extension": "005",
+    "carte": "126",
+    "nom": "Minnie",
+    "sous-nom": "Danseuse epoustouflante"
+  },
+  {
+    "extension": "005",
+    "carte": "127",
+    "nom": "Se liberer",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "128",
+    "nom": "La fin est proche",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "129",
+    "nom": "Endors",
+    "sous-nom": "Toi sans peine"
+  },
+  {
+    "extension": "005",
+    "carte": "012",
+    "nom": "Felix fixe junior",
+    "sous-nom": "Intendant de niceland"
+  },
+  {
+    "extension": "005",
+    "carte": "130",
+    "nom": "Glimmer contre glimmer",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "131",
+    "nom": "Qui est avec moi",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "132",
+    "nom": "Potion de puissance",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "133",
+    "nom": "L epee liberee",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "134",
+    "nom": "Chromicone de rubis",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "135",
+    "nom": "Piste de sugar rush",
+    "sous-nom": "Ligne de depart"
+  },
+  {
+    "extension": "005",
+    "carte": "136",
+    "nom": "Fete de ratigan",
+    "sous-nom": "Arriere-salle sordide"
+  },
+  {
+    "extension": "005",
+    "carte": "137",
+    "nom": "Sa sucrerie",
+    "sous-nom": "Souverain du saccharose"
+  },
+  {
+    "extension": "005",
+    "carte": "138",
+    "nom": "Chaca",
+    "sous-nom": "Fille impressionnante"
+  },
+  {
+    "extension": "005",
+    "carte": "139",
+    "nom": "La reine",
+    "sous-nom": "La plus cruelle"
+  },
+  {
+    "extension": "005",
+    "carte": "013",
+    "nom": "Kristoff",
+    "sous-nom": "Garde-rennes"
+  },
+  {
+    "extension": "005",
+    "carte": "140",
+    "nom": "Balthazar picsou",
+    "sous-nom": "Amateur d antiquites"
+  },
+  {
+    "extension": "005",
+    "carte": "141",
+    "nom": "Prince jean",
+    "sous-nom": "Corrupteur opportuniste"
+  },
+  {
+    "extension": "005",
+    "carte": "142",
+    "nom": "Merlin",
+    "sous-nom": "De retour de saint-trop"
+  },
+  {
+    "extension": "005",
+    "carte": "143",
+    "nom": "Pacha",
+    "sous-nom": "Guide de l empereur"
+  },
+  {
+    "extension": "005",
+    "carte": "144",
+    "nom": "La reine",
+    "sous-nom": "La plus belle"
+  },
+  {
+    "extension": "005",
+    "carte": "145",
+    "nom": "Sherif de nottingham",
+    "sous-nom": "Immonde personnage"
+  },
+  {
+    "extension": "005",
+    "carte": "146",
+    "nom": "Chicha",
+    "sous-nom": "Maman devouee"
+  },
+  {
+    "extension": "005",
+    "carte": "147",
+    "nom": "Prince jean",
+    "sous-nom": "Amateur d or"
+  },
+  {
+    "extension": "005",
+    "carte": "148",
+    "nom": "La reine",
+    "sous-nom": "A la tete du conseil"
+  },
+  {
+    "extension": "005",
+    "carte": "149",
+    "nom": "Kuzco",
+    "sous-nom": "Empereur egoiste"
+  },
+  {
+    "extension": "005",
+    "carte": "014",
+    "nom": "Mirabel madrigal",
+    "sous-nom": "Rassembleuse de la famille"
+  },
+  {
+    "extension": "005",
+    "carte": "150",
+    "nom": "Mufasa",
+    "sous-nom": "Souverain du rocher des lions"
+  },
+  {
+    "extension": "005",
+    "carte": "151",
+    "nom": "Ludwig von drake",
+    "sous-nom": "Genie autoproclame"
+  },
+  {
+    "extension": "005",
+    "carte": "152",
+    "nom": "Minnie",
+    "sous-nom": "Inventrice a l esprit vif"
+  },
+  {
+    "extension": "005",
+    "carte": "153",
+    "nom": "Basil",
+    "sous-nom": "Detective chevronne"
+  },
+  {
+    "extension": "005",
+    "carte": "154",
+    "nom": "Sa sucrerie",
+    "sous-nom": "Douce abomination"
+  },
+  {
+    "extension": "005",
+    "carte": "155",
+    "nom": "Donald",
+    "sous-nom": "Pied-plat concentre"
+  },
+  {
+    "extension": "005",
+    "carte": "156",
+    "nom": "Nanaka",
+    "sous-nom": "Femme avisee"
+  },
+  {
+    "extension": "005",
+    "carte": "157",
+    "nom": "Tipo",
+    "sous-nom": "Fils en croissance"
+  },
+  {
+    "extension": "005",
+    "carte": "158",
+    "nom": "Belle",
+    "sous-nom": "Du bal"
+  },
+  {
+    "extension": "005",
+    "carte": "159",
+    "nom": "Merlin",
+    "sous-nom": "Visionnaire eclaire"
+  },
+  {
+    "extension": "005",
+    "carte": "015",
+    "nom": "Minnie",
+    "sous-nom": "Tambour-major"
+  },
+  {
+    "extension": "005",
+    "carte": "160",
+    "nom": "Vision de l avenir",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "161",
+    "nom": "Caprice royal",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "162",
+    "nom": "Rien n est plus pareil",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "163",
+    "nom": "Cachez",
+    "sous-nom": "Vous"
+  },
+  {
+    "extension": "005",
+    "carte": "164",
+    "nom": "Je ne m amuse plus du tout",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "165",
+    "nom": "Medaille des heros",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "166",
+    "nom": "Loupe de basil",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "167",
+    "nom": "Sac de voyage de merlin",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "168",
+    "nom": "Chromicone de saphir",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "169",
+    "nom": "Le grand illuminarium",
+    "sous-nom": "Salle de bal resplendissante"
+  },
+  {
+    "extension": "005",
+    "carte": "016",
+    "nom": "Daisy",
+    "sous-nom": "Rendez-vous de donald"
+  },
+  {
+    "extension": "005",
+    "carte": "170",
+    "nom": "Chaumiere de merlin",
+    "sous-nom": "Foyer du sorcier"
+  },
+  {
+    "extension": "005",
+    "carte": "171",
+    "nom": "Stitch",
+    "sous-nom": "Outsider de l equipe"
+  },
+  {
+    "extension": "005",
+    "carte": "172",
+    "nom": "Jafar",
+    "sous-nom": "Hypnotiseur tyrannique"
+  },
+  {
+    "extension": "005",
+    "carte": "173",
+    "nom": "Simba",
+    "sous-nom": "Prince perdu"
+  },
+  {
+    "extension": "005",
+    "carte": "174",
+    "nom": "Rudy",
+    "sous-nom": "Pourrisseur de groove"
+  },
+  {
+    "extension": "005",
+    "carte": "175",
+    "nom": "Garde royal",
+    "sous-nom": "Protecteur bovin"
+  },
+  {
+    "extension": "005",
+    "carte": "176",
+    "nom": "Mickey mouse",
+    "sous-nom": "Defenseur de la bataille de nourriture"
+  },
+  {
+    "extension": "005",
+    "carte": "177",
+    "nom": "Dormeur",
+    "sous-nom": "Chevalier amorphe"
+  },
+  {
+    "extension": "005",
+    "carte": "178",
+    "nom": "Kronk",
+    "sous-nom": "Enqueteur sans permis"
+  },
+  {
+    "extension": "005",
+    "carte": "179",
+    "nom": "Heihei",
+    "sous-nom": "Coq de protection"
+  },
+  {
+    "extension": "005",
+    "carte": "017",
+    "nom": "Felix fixe junior",
+    "sous-nom": "Promeneur ravi"
+  },
+  {
+    "extension": "005",
+    "carte": "180",
+    "nom": "Atchoum",
+    "sous-nom": "Chevalier bruyant"
+  },
+  {
+    "extension": "005",
+    "carte": "181",
+    "nom": "Simplet",
+    "sous-nom": "Chevalier en herbe"
+  },
+  {
+    "extension": "005",
+    "carte": "182",
+    "nom": "Namaari",
+    "sous-nom": "Fille determinee"
+  },
+  {
+    "extension": "005",
+    "carte": "183",
+    "nom": "Blanche",
+    "sous-nom": "Neige - c ur juste"
+  },
+  {
+    "extension": "005",
+    "carte": "184",
+    "nom": "Yzma",
+    "sous-nom": "Injustement traitee"
+  },
+  {
+    "extension": "005",
+    "carte": "185",
+    "nom": "Kronk",
+    "sous-nom": "Chef de la securite"
+  },
+  {
+    "extension": "005",
+    "carte": "186",
+    "nom": "Grincheux",
+    "sous-nom": "Chevalier sceptique"
+  },
+  {
+    "extension": "005",
+    "carte": "187",
+    "nom": "Pat",
+    "sous-nom": "Champion de lutte"
+  },
+  {
+    "extension": "005",
+    "carte": "188",
+    "nom": "Seigneur hector",
+    "sous-nom": "Seigneur du chateau"
+  },
+  {
+    "extension": "005",
+    "carte": "189",
+    "nom": "Timide",
+    "sous-nom": "Chevalier servant"
+  },
+  {
+    "extension": "005",
+    "carte": "018",
+    "nom": "Vaiana",
+    "sous-nom": "Exploratrice resolue"
+  },
+  {
+    "extension": "005",
+    "carte": "190",
+    "nom": "Arthur",
+    "sous-nom": "Moustique"
+  },
+  {
+    "extension": "005",
+    "carte": "191",
+    "nom": "Joyeux",
+    "sous-nom": "Chevalier guilleret"
+  },
+  {
+    "extension": "005",
+    "carte": "192",
+    "nom": "Simba",
+    "sous-nom": "Fils de mufasa"
+  },
+  {
+    "extension": "005",
+    "carte": "193",
+    "nom": "Prof",
+    "sous-nom": "Chevalier hardi"
+  },
+  {
+    "extension": "005",
+    "carte": "194",
+    "nom": "Arthur",
+    "sous-nom": "Roi victorieux"
+  },
+  {
+    "extension": "005",
+    "carte": "195",
+    "nom": "Pat",
+    "sous-nom": "Arbitre"
+  },
+  {
+    "extension": "005",
+    "carte": "196",
+    "nom": "Tir a la corde",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "197",
+    "nom": "Ou est la vraie vie",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "198",
+    "nom": "Eviter le canardage",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "199",
+    "nom": "Bataille de nourriture",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "019",
+    "nom": "Vanellope von schweetz",
+    "sous-nom": "Princesse de sugar rush"
+  },
+  {
+    "extension": "005",
+    "carte": "001",
+    "nom": "Koda",
+    "sous-nom": "Ourson bavard"
+  },
+  {
+    "extension": "005",
+    "carte": "200",
+    "nom": "Bouclier d arendelle",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "201",
+    "nom": "Armure de plaques",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "202",
+    "nom": "Chromicone d acier",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "203",
+    "nom": "Mechants anonymes",
+    "sous-nom": "Centre de soutien des mechants"
+  },
+  {
+    "extension": "005",
+    "carte": "204",
+    "nom": "Mine des sept nains",
+    "sous-nom": "Forteresse securisee"
+  },
+  {
+    "extension": "005",
+    "carte": "205",
+    "nom": "Prince naveen",
+    "sous-nom": "Joueur de ukulele"
+  },
+  {
+    "extension": "005",
+    "carte": "206",
+    "nom": "Vanellope von schweetz",
+    "sous-nom": "Princesse de sugar rush"
+  },
+  {
+    "extension": "005",
+    "carte": "207",
+    "nom": "Ranimer",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "208",
+    "nom": "Archimede",
+    "sous-nom": "Hibou electrique"
+  },
+  {
+    "extension": "005",
+    "carte": "209",
+    "nom": "Olaf",
+    "sous-nom": "Passager heureux"
+  },
+  {
+    "extension": "005",
+    "carte": "020",
+    "nom": "Adam de la halle",
+    "sous-nom": "Coq n roll"
+  },
+  {
+    "extension": "005",
+    "carte": "210",
+    "nom": "Qui trouve garde",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "211",
+    "nom": "Clarabelle",
+    "sous-nom": "Au sabot leger"
+  },
+  {
+    "extension": "005",
+    "carte": "212",
+    "nom": "Scar",
+    "sous-nom": "Lion revanchard"
+  },
+  {
+    "extension": "005",
+    "carte": "213",
+    "nom": "Pour les hommes",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "214",
+    "nom": "Donald",
+    "sous-nom": "Lanceur de tartes"
+  },
+  {
+    "extension": "005",
+    "carte": "215",
+    "nom": "Robin des bois",
+    "sous-nom": "Tireur d elite"
+  },
+  {
+    "extension": "005",
+    "carte": "216",
+    "nom": "Fete de ratigan",
+    "sous-nom": "Arriere-salle sordide"
+  },
+  {
+    "extension": "005",
+    "carte": "217",
+    "nom": "Mufasa",
+    "sous-nom": "Souverain du rocher des lions"
+  },
+  {
+    "extension": "005",
+    "carte": "218",
+    "nom": "Sa sucrerie",
+    "sous-nom": "Douce abomination"
+  },
+  {
+    "extension": "005",
+    "carte": "219",
+    "nom": "Caprice royal",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "021",
+    "nom": "Ralph la casse",
+    "sous-nom": "Amiral couche-culotte"
+  },
+  {
+    "extension": "005",
+    "carte": "220",
+    "nom": "Blanche",
+    "sous-nom": "Neige - c ur juste"
+  },
+  {
+    "extension": "005",
+    "carte": "221",
+    "nom": "Arthur",
+    "sous-nom": "Roi victorieux"
+  },
+  {
+    "extension": "005",
+    "carte": "222",
+    "nom": "Mechants anonymes",
+    "sous-nom": "Centre de soutien des mechants"
+  },
+  {
+    "extension": "005",
+    "carte": "022",
+    "nom": "Belle marianne",
+    "sous-nom": "Dame des lices"
+  },
+  {
+    "extension": "005",
+    "carte": "023",
+    "nom": "Sven",
+    "sous-nom": "Destrier renne"
+  },
+  {
+    "extension": "005",
+    "carte": "024",
+    "nom": "Minnie",
+    "sous-nom": "Amie compatissante"
+  },
+  {
+    "extension": "005",
+    "carte": "025",
+    "nom": "Try everything",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "026",
+    "nom": "Toucher guerisseur",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "027",
+    "nom": "Ranimer",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "028",
+    "nom": "Un mirage a deux visages",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "029",
+    "nom": "Invitation au bal",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "002",
+    "nom": "Nala",
+    "sous-nom": "Lionconne malicieuse"
+  },
+  {
+    "extension": "005",
+    "carte": "030",
+    "nom": "Philtre de guerison",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "031",
+    "nom": "C ur du detecteur de la reine",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "032",
+    "nom": "Chromicone d ambre",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "033",
+    "nom": "Tour de raiponce",
+    "sous-nom": "Prison cachee"
+  },
+  {
+    "extension": "005",
+    "carte": "034",
+    "nom": "La terre des lions",
+    "sous-nom": "Oasis de la jungle"
+  },
+  {
+    "extension": "005",
+    "carte": "035",
+    "nom": "Malefique",
+    "sous-nom": "Redoutable reine"
+  },
+  {
+    "extension": "005",
+    "carte": "036",
+    "nom": "Nokk",
+    "sous-nom": "Esprit mythique"
+  },
+  {
+    "extension": "005",
+    "carte": "037",
+    "nom": "Big ben",
+    "sous-nom": "Gardien de l illuminarium"
+  },
+  {
+    "extension": "005",
+    "carte": "038",
+    "nom": "Merlin",
+    "sous-nom": "En tortue"
+  },
+  {
+    "extension": "005",
+    "carte": "039",
+    "nom": "Archimede",
+    "sous-nom": "Hibou exaspere"
+  },
+  {
+    "extension": "005",
+    "carte": "003",
+    "nom": "Prince naveen",
+    "sous-nom": "Joueur de ukulele"
+  },
+  {
+    "extension": "005",
+    "carte": "040",
+    "nom": "Bruni",
+    "sous-nom": "Salamandre de feu"
+  },
+  {
+    "extension": "005",
+    "carte": "041",
+    "nom": "Geant de la terre",
+    "sous-nom": "Montagne vivante"
+  },
+  {
+    "extension": "005",
+    "carte": "042",
+    "nom": "Courant d air",
+    "sous-nom": "Esprit du vent"
+  },
+  {
+    "extension": "005",
+    "carte": "043",
+    "nom": "Le lapin blanc",
+    "sous-nom": "Heraut royal"
+  },
+  {
+    "extension": "005",
+    "carte": "044",
+    "nom": "Madame mime",
+    "sous-nom": "En elephante"
+  },
+  {
+    "extension": "005",
+    "carte": "045",
+    "nom": "Luisa madrigal",
+    "sous-nom": "Madame muscle"
+  },
+  {
+    "extension": "005",
+    "carte": "046",
+    "nom": "Anna",
+    "sous-nom": "Majeste mystique"
+  },
+  {
+    "extension": "005",
+    "carte": "047",
+    "nom": "Archimede",
+    "sous-nom": "Hibou electrique"
+  },
+  {
+    "extension": "005",
+    "carte": "048",
+    "nom": "Elsa",
+    "sous-nom": "Le cinquieme esprit"
+  },
+  {
+    "extension": "005",
+    "carte": "049",
+    "nom": "Genie",
+    "sous-nom": "Clou du spectacle"
+  },
+  {
+    "extension": "005",
+    "carte": "004",
+    "nom": "Truc",
+    "sous-nom": "Elan nordique"
+  },
+  {
+    "extension": "005",
+    "carte": "050",
+    "nom": "Olaf",
+    "sous-nom": "Passager heureux"
+  },
+  {
+    "extension": "005",
+    "carte": "051",
+    "nom": "Malefique",
+    "sous-nom": "Fetarde vexee"
+  },
+  {
+    "extension": "005",
+    "carte": "052",
+    "nom": "Monstro",
+    "sous-nom": "Baleine formidable"
+  },
+  {
+    "extension": "005",
+    "carte": "053",
+    "nom": "Miss tick",
+    "sous-nom": "Cruelle sorciere"
+  },
+  {
+    "extension": "005",
+    "carte": "054",
+    "nom": "Malefique",
+    "sous-nom": "Sorciere revancharde"
+  },
+  {
+    "extension": "005",
+    "carte": "055",
+    "nom": "Rafiki",
+    "sous-nom": "Chamane duelliste"
+  },
+  {
+    "extension": "005",
+    "carte": "056",
+    "nom": "Anna",
+    "sous-nom": "Apprentie impatiente"
+  },
+  {
+    "extension": "005",
+    "carte": "057",
+    "nom": "Le roi de c ur",
+    "sous-nom": "Monarque du pays des merveilles"
+  },
+  {
+    "extension": "005",
+    "carte": "058",
+    "nom": "Camilo madrigal",
+    "sous-nom": "Changeforme de la famille"
+  },
+  {
+    "extension": "005",
+    "carte": "059",
+    "nom": "Force hypnotique",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "005",
+    "nom": "Kenai",
+    "sous-nom": "Grand frere"
+  },
+  {
+    "extension": "005",
+    "carte": "060",
+    "nom": "Qui trouve garde",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "061",
+    "nom": "L explorateur",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "062",
+    "nom": "Rassembler connaissance et sagesse",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "063",
+    "nom": "Assistance magique",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "064",
+    "nom": "Retrosphere",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "065",
+    "nom": "Moitie de la couronne d hexasort",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "066",
+    "nom": "Chromicone d amethyste",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "067",
+    "nom": "Palais de glace d elsa",
+    "sous-nom": "Forteresse de solitude"
+  },
+  {
+    "extension": "005",
+    "carte": "068",
+    "nom": "La bibliotheque",
+    "sous-nom": "Un cadeau pour belle"
+  },
+  {
+    "extension": "005",
+    "carte": "069",
+    "nom": "Robin des bois",
+    "sous-nom": "Candidat opportun"
+  },
+  {
+    "extension": "005",
+    "carte": "006",
+    "nom": "Vanellope von schweetz",
+    "sous-nom": "Championne de sugar rush"
+  },
+  {
+    "extension": "005",
+    "carte": "070",
+    "nom": "Shenzi",
+    "sous-nom": "Complice de scar"
+  },
+  {
+    "extension": "005",
+    "carte": "071",
+    "nom": "Petit jean",
+    "sous-nom": "Cuisinier du camp"
+  },
+  {
+    "extension": "005",
+    "carte": "072",
+    "nom": "Zazu",
+    "sous-nom": "Conseiller de mufasa"
+  },
+  {
+    "extension": "005",
+    "carte": "073",
+    "nom": "Ulf",
+    "sous-nom": "Mime"
+  },
+  {
+    "extension": "005",
+    "carte": "074",
+    "nom": "Ed",
+    "sous-nom": "Hyene rieuse"
+  },
+  {
+    "extension": "005",
+    "carte": "075",
+    "nom": "Flora",
+    "sous-nom": "Bonne fee"
+  },
+  {
+    "extension": "005",
+    "carte": "076",
+    "nom": "Pimprenelle",
+    "sous-nom": "Bonne fee"
+  },
+  {
+    "extension": "005",
+    "carte": "077",
+    "nom": "Robin des bois",
+    "sous-nom": "Concurrent au tir a l arc"
+  },
+  {
+    "extension": "005",
+    "carte": "078",
+    "nom": "Paquerette",
+    "sous-nom": "Bonne fee"
+  },
+  {
+    "extension": "005",
+    "carte": "079",
+    "nom": "Iago",
+    "sous-nom": "Faux flamant rose"
+  },
+  {
+    "extension": "005",
+    "carte": "007",
+    "nom": "P2 mirabel madrigal",
+    "sous-nom": "Rassembleuse de la famille"
+  },
+  {
+    "extension": "005",
+    "carte": "007",
+    "nom": "Muche",
+    "sous-nom": "Elan nordique"
+  },
+  {
+    "extension": "005",
+    "carte": "080",
+    "nom": "Banzai",
+    "sous-nom": "Predateur vorace"
+  },
+  {
+    "extension": "005",
+    "carte": "081",
+    "nom": "Ed",
+    "sous-nom": "Fetard hysterique"
+  },
+  {
+    "extension": "005",
+    "carte": "082",
+    "nom": "Scroop",
+    "sous-nom": "Odieux mutin"
+  },
+  {
+    "extension": "005",
+    "carte": "083",
+    "nom": "Prince philippe",
+    "sous-nom": "Epeiste du royaume"
+  },
+  {
+    "extension": "005",
+    "carte": "084",
+    "nom": "Clarabelle",
+    "sous-nom": "Au sabot leger"
+  },
+  {
+    "extension": "005",
+    "carte": "085",
+    "nom": "Anna",
+    "sous-nom": "Reine diplomate"
+  },
+  {
+    "extension": "005",
+    "carte": "086",
+    "nom": "Clarabelle",
+    "sous-nom": "Invitee maladroite"
+  },
+  {
+    "extension": "005",
+    "carte": "087",
+    "nom": "Banzai",
+    "sous-nom": "Hyene railleuse"
+  },
+  {
+    "extension": "005",
+    "carte": "088",
+    "nom": "Robin des bois",
+    "sous-nom": "Limier furtif"
+  },
+  {
+    "extension": "005",
+    "carte": "089",
+    "nom": "Mere gothel",
+    "sous-nom": "Manipulatrice vaniteuse"
+  },
+  {
+    "extension": "005",
+    "carte": "008",
+    "nom": "Lilo",
+    "sous-nom": "Decoratrice de gateau junior"
+  },
+  {
+    "extension": "005",
+    "carte": "090",
+    "nom": "Clarabelle",
+    "sous-nom": "Introvertie mais heureuse"
+  },
+  {
+    "extension": "005",
+    "carte": "091",
+    "nom": "Shenzi",
+    "sous-nom": "Meneuse des hyenes"
+  },
+  {
+    "extension": "005",
+    "carte": "092",
+    "nom": "Mere gothel",
+    "sous-nom": "Conspiratrice inflexible"
+  },
+  {
+    "extension": "005",
+    "carte": "093",
+    "nom": "Scar",
+    "sous-nom": "Lion revanchard"
+  },
+  {
+    "extension": "005",
+    "carte": "094",
+    "nom": "Deduction sous hypnose",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "095",
+    "nom": "Rage du hurleur nocturne",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "096",
+    "nom": "Pour les hommes",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "097",
+    "nom": "N oublie pas qui tu es",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "098",
+    "nom": "Miroir du prince jean",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "099",
+    "nom": "Obscurospere",
+    "sous-nom": ""
+  },
+  {
+    "extension": "005",
+    "carte": "009",
+    "nom": "Vanellope von schweetz",
+    "sous-nom": "Mecanicienne de bonbons"
+  },
+  {
+    "extension": "003",
+    "carte": "030",
+    "nom": "Stich",
+    "sous-nom": "Rock star"
+  },
+  {
+    "extension": "003",
+    "carte": "004a",
+    "nom": "Chiot dalmatien",
+    "sous-nom": "Fretille de joie"
+  }
+]
