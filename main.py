@@ -1,5 +1,5 @@
 import requests
-import random
+import random as r
 import discord
 from discord.ext import commands
 from dotenv import load_dotenv
@@ -30,7 +30,7 @@ async def send_card_message(channel_id):
     with open('output.json', 'r') as file:
         data = json.load(file)
     
-    i = random.randint(0, len(data) - 1)
+    i = r.randint(0, len(data) - 1)
     extension = data[i]['extension']
     carte = data[i]['carte']
     url = get_data(extension, carte)
@@ -58,7 +58,7 @@ async def random(interaction: discord.Interaction):
     with open('output.json', 'r') as file:
         data = json.load(file)
     
-    i = random.randint(0, len(data) - 1)
+    i = r.randint(0, len(data) - 1)
     extension = data[i]['extension']
     carte = data[i]['carte']
     url = get_data(extension, carte)
