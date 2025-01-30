@@ -24,16 +24,7 @@ bot = commands.Bot(command_prefix='&', intents=intents, case_insensitive=True)
 def get_data(extension: str, carte: str) -> str:
     url = f'https://cdn.dreamborn.ink/images/fr/cards/{extension}-{carte}'
     response = requests.get(url)
-    
-    if response.status_code == 200:
-        print("carte existe")
-        return url
-    else:
-        print("carte n'existe pas, choix d'une autre carte")
-        # Choisir une nouvelle carte
-        extension, carte = aleatoire()
-        return get_data(extension, carte)
-
+    return url
 
 async def send_card_message(channel_id):
     with open('output.json', 'r') as file:
@@ -43,7 +34,6 @@ async def send_card_message(channel_id):
     extension = data[i]['extension']
     carte = data[i]['carte']
     url = get_data(extension, carte)
-    print(url)
     
     embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
     embed.set_image(url=url)    
@@ -65,9 +55,13 @@ async def send_card_message(channel_id):
 @bot.tree.command(name="randomc", description="Renvoyer une carte aléatoire")
 async def randomc(interaction: discord.Interaction):
     print("aléatoire trigger")
-    extension, carte = aleatoire()
+    with open('output.json', 'r') as file:
+        data = json.load(file)
+    
+    i = random.randint(0, len(data) - 1)
+    extension = data[i]['extension']
+    carte = data[i]['carte']
     url = get_data(extension, carte)
-    print(url)
     
     embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
     embed.set_image(url=url)    
