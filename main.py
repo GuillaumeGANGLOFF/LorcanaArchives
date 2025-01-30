@@ -34,15 +34,14 @@ def get_data(extension: str, carte: str) -> str:
         extension, carte = aleatoire()
         return get_data(extension, carte)
 
-def aleatoire() -> dict:
-    nombre = random.randint(1, NOMBRE_EXTENSION)
-    extension = f"{nombre:03}"
-    nombre = random.randint(1, NOMBRE_CARTES)
-    carte = f"{nombre:03}"
-    return extension, carte
 
 async def send_card_message(channel_id):
-    extension, carte = aleatoire()
+    with open('output.json', 'r') as file:
+        data = json.load(file)
+    
+    i = random.randint(0, len(data) - 1)
+    extension = data[i]['extension']
+    carte = data[i]['carte']
     url = get_data(extension, carte)
     print(url)
     
