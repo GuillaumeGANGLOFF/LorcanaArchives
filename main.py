@@ -172,7 +172,7 @@ async def on_ready():
     scheduler = AsyncIOScheduler()
     
     # Correction : passer la fonction comme référence sans l'exécuter
-    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=9, minute=0)
+    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=9, minute=41)
     scheduler.start()
     
     try:
