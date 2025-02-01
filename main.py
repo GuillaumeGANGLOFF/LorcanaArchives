@@ -1,13 +1,13 @@
-import requests
 import random as r
 import discord
 from discord.ext import commands
 from dotenv import load_dotenv
 import os
-from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import json
 from discord import app_commands
 from discord.ui import Select, View
+import schedule
+import time
 
 ############ CONFIG ###################
 NOMBRE_EXTENSION = 6
@@ -99,7 +99,7 @@ class CardSelect(Select):
         embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
         embed.set_image(url=image_url)
         
-        await interaction.response.send_message(embed=embed, ephemeral=True)
+        await interaction.response.send_message(embed=embed)
 
 class CardView(View):
     def __init__(self, cards):
@@ -152,16 +152,6 @@ async def carte(interaction: discord.Interaction, recherche: str):
 @bot.event
 async def on_ready():
     print(f'(+) {bot.user} has connected to Discord!')
-    scheduler = AsyncIOScheduler()
-
-    # Tâche pour l'heure d'été (UTC+2)
-    #scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=12, minute=0)  # 14h à Paris en été
-
-    # Tâche pour l'heure standard (UTC+1)
-    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=17)  # 14h à Paris en hiver
-
-    scheduler.start()
-    
     try:
         synced = await bot.tree.sync()
         print(f"Synchronisé {len(synced)} commande(s)")
@@ -175,6 +165,7 @@ def main():
         return
     try:
         bot.run(token)
+        schedule.every().day.at("13:25").do(send_card_message(CHANNEL_ID))
     except Exception as e:
         print(f"(+) Erreur lors du démarrage du bot : {str(e)}")
 
