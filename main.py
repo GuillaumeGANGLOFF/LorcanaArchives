@@ -103,7 +103,7 @@ class CardView(View):
 @bot.tree.command(name="carte", description="Rechercher une carte Dreamborn")
 @app_commands.describe(recherche="Nom ou sous-nom de la carte à rechercher")
 async def carte(interaction: discord.Interaction, recherche: str):
-    await interaction.response.defer(thinkin=True)
+    await interaction.response.defer(thinking=True)
     print(f"Commande /carte reçue avec recherche: {recherche}") 
     
     recherche = recherche.lower()
