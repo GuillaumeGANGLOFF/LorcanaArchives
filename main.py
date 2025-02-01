@@ -6,8 +6,10 @@ import os
 import json
 from discord import app_commands
 from discord.ui import Select, View
-import schedule
-import time
+from apscheduler.schedulers.asyncio import AsyncIOScheduler
+from apscheduler.triggers.cron import CronTrigger
+import pytz
+import asyncio
 
 ############ CONFIG ###################
 NOMBRE_EXTENSION = 6
@@ -21,7 +23,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix='&', intents=intents, case_insensitive=True)
 
-async def send_card_message(channel_id):
+async def send_card_message(channel):
     with open('output.json', 'r') as file:
         data = json.load(file)
     
@@ -33,7 +35,6 @@ async def send_card_message(channel_id):
     embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
     embed.set_image(url=url)    
 
-    channel = channel_id
     if channel:
         try:
             print("(+) envoie du message")
@@ -88,12 +89,13 @@ class CardSelect(Select):
 
     async def callback(self, interaction: discord.Interaction):
         extension, carte = self.values[0].split('-')
-        
+        print("(+) envoie de la carte choisie par l'utilisateur")
         image_url = f'https://cdn.dreamborn.ink/images/fr/cards/{extension}-{carte}'
         embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
         embed.set_image(url=image_url)
         
-        await interaction.response.send_message(embed=embed, ephemeral=True)
+        await interaction.response.send_message(embed=embed)
+        print("(+) carte envoyée")
 
 class CardView(View):
     def __init__(self, cards):
@@ -103,7 +105,6 @@ class CardView(View):
 @bot.tree.command(name="carte", description="Rechercher une carte Dreamborn")
 @app_commands.describe(recherche="Nom ou sous-nom de la carte à rechercher")
 async def carte(interaction: discord.Interaction, recherche: str):
-    await interaction.response.defer(thinking=True)
     print(f"Commande /carte reçue avec recherche: {recherche}") 
     
     recherche = recherche.lower()
@@ -125,20 +126,20 @@ async def carte(interaction: discord.Interaction, recherche: str):
                 description="Aucune carte n'a été trouvée pour cette recherche.",
                 color=discord.Color.red()
             )
-            await interaction.followup.send(embed=embed_no_carte, ephemeral=True)
+            await interaction.response.send_message(embed=embed_no_carte, ephemeral=True)
         else:
             print(f"Nombre de cartes trouvées: {len(resultat_carte)}")
             resultat_carte = resultat_carte[:25]
             
             view = CardView(resultat_carte)
-            await interaction.followup.send( 
+            await interaction.response.send_message(
                 "Sélectionnez une carte :",
                 view=view,
                 ephemeral=True
             )
     except Exception as e:
         print(f"Erreur lors de l'exécution de la commande: {str(e)}")
-        await interaction.followup.send(
+        await interaction.response.send_message(
             f"Une erreur s'est produite: {str(e)}",
             ephemeral=True
         )
@@ -147,6 +148,24 @@ async def carte(interaction: discord.Interaction, recherche: str):
 @bot.event
 async def on_ready():
     print(f'(+) {bot.user} has connected to Discord!')
+    
+    channel = bot.get_channel(CHANNEL_ID)
+    if channel is None:
+        print(f"(-) Erreur : Impossible de trouver le channel {CHANNEL_ID}")
+        return
+
+    # Créer le scheduler avec le fuseau horaire de Paris
+    scheduler = AsyncIOScheduler(timezone=pytz.timezone('Europe/Paris'))
+    
+    # Programmer la tâche pour 16h17 heure de Paris
+    scheduler.add_job(
+        send_card_message,
+        CronTrigger(hour=16, minute=20, timezone=pytz.timezone('Europe/Paris')),
+        args=[channel]
+    )
+    
+    scheduler.start()
+    
     try:
         synced = await bot.tree.sync()
         print(f"Synchronisé {len(synced)} commande(s)")
@@ -160,7 +179,6 @@ def main():
         return
     try:
         bot.run(token)
-        schedule.every().day.at("13:25").do(send_card_message(CHANNEL_ID))
     except Exception as e:
         print(f"(+) Erreur lors du démarrage du bot : {str(e)}")
 

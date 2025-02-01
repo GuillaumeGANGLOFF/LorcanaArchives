@@ -12,8 +12,9 @@ multidict==6.1.0
 pillow==11.1.0
 propcache==0.2.1
 python-dotenv==1.0.1
+pytz==2025.1
 requests==2.32.3
+schedule==1.2.2
 tzlocal==5.2
 urllib3==2.3.0
 yarl==1.18.3
-schedule==1.2.2
