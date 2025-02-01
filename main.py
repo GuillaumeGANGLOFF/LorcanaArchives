@@ -158,7 +158,7 @@ async def on_ready():
     #scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=12, minute=0)  # 14h à Paris en été
 
     # Tâche pour l'heure standard (UTC+1)
-    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=4)  # 14h à Paris en hiver
+    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=7)  # 14h à Paris en hiver
 
     scheduler.start()
     
