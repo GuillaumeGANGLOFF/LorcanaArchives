@@ -100,7 +100,7 @@ class CardSelect(Select):
         embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
         embed.set_image(url=image_url)
         
-        await interaction.response.send_message(embed=embed)
+        await interaction.response.send_message(embed=embed, ephemeral=True)
 
 class CardView(View):
     def __init__(self, cards):
@@ -159,7 +159,7 @@ async def on_ready():
     #scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=12, minute=0)  # 14h à Paris en été
 
     # Tâche pour l'heure standard (UTC+1)
-    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=0)  # 14h à Paris en hiver
+    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=3)  # 14h à Paris en hiver
 
     scheduler.start()
     
