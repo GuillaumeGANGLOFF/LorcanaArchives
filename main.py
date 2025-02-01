@@ -154,13 +154,11 @@ async def on_ready():
         print(f"(-) Erreur : Impossible de trouver le channel {CHANNEL_ID}")
         return
 
-    # Créer le scheduler avec le fuseau horaire de Paris
     scheduler = AsyncIOScheduler(timezone=pytz.timezone('Europe/Paris'))
     
-    # Programmer la tâche pour 16h17 heure de Paris
     scheduler.add_job(
         send_card_message,
-        CronTrigger(hour=16, minute=20, timezone=pytz.timezone('Europe/Paris')),
+        CronTrigger(hour=9, minute=00, timezone=pytz.timezone('Europe/Paris')),
         args=[channel]
     )
     
