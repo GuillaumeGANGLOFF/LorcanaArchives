@@ -64,12 +64,6 @@ async def random(interaction: discord.Interaction):
     try:
         print("(+) envoie du message")
         await interaction.response.send_message(embed=embed)
-        message = await interaction.original_response()
-        await message.add_reaction("1️⃣")
-        await message.add_reaction("2️⃣")
-        await message.add_reaction("3️⃣")
-        await message.add_reaction("4️⃣")
-        await message.add_reaction("5️⃣")
         print("(+) envoie ok")
     except Exception as e:
         print(f"(-) Erreur lors de l'envoi du message : {str(e)}")
