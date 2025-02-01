@@ -63,7 +63,7 @@ async def random(interaction: discord.Interaction):
 
     try:
         print("(+) envoie du message")
-        await interaction.response.send_message(embed=embed, ephemeral=True)
+        await interaction.response.send_message(embed=embed)
         message = await interaction.original_response()
         await message.add_reaction("1️⃣")
         await message.add_reaction("2️⃣")
@@ -158,7 +158,7 @@ async def on_ready():
     #scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=12, minute=0)  # 14h à Paris en été
 
     # Tâche pour l'heure standard (UTC+1)
-    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=7)  # 14h à Paris en hiver
+    scheduler.add_job(send_card_message, 'cron', args=[CHANNEL_ID], hour=13, minute=17)  # 14h à Paris en hiver
 
     scheduler.start()
     
