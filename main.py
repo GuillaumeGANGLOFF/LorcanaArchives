@@ -32,7 +32,7 @@ async def send_card_message(channel):
     carte = data[i]['carte']
     url = f'https://cdn.dreamborn.ink/images/fr/cards/{extension}-{carte}'
     
-    embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
+    embed = discord.Embed(title="Carte aléatoire du jour", color=0xd6bb8d)
     embed.set_image(url=url)    
 
     if channel:
@@ -59,7 +59,7 @@ async def random(interaction: discord.Interaction):
     carte = data[i]['carte']
     url = f'https://cdn.dreamborn.ink/images/fr/cards/{extension}-{carte}'
     
-    embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
+    embed = discord.Embed(title="Carte Aléatoire", color=0xd6bb8d)
     embed.set_image(url=url)    
 
     try:
@@ -91,7 +91,7 @@ class CardSelect(Select):
         extension, carte = self.values[0].split('-')
         print("(+) envoie de la carte choisie par l'utilisateur")
         image_url = f'https://cdn.dreamborn.ink/images/fr/cards/{extension}-{carte}'
-        embed = discord.Embed(title="Carte Dreamborn", color=0xd6bb8d)
+        embed = discord.Embed(title=f"{extension}-{carte}", color=0xd6bb8d)
         embed.set_image(url=image_url)
         
         await interaction.response.send_message(embed=embed)
